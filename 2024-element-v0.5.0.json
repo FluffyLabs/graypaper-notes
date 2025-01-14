@@ -1,335 +1,605 @@
 {
-	"version": 3,
-	"notes": [
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$7BkURz3PeFS_yzdOYCqic-qAXwIDMd9x67bqVWuafaQ\n\n---\n * Some candidate 32=>64:\n\n- service id might be 64-bit? https://graypaper.fluffylabs.dev/#/911af30/10da0010da00\nthus new's check/bump would need adjustment https://graypaper.fluffylabs.dev/#/911af30/30e00230e002\nhttps://graypaper.fluffylabs.dev/#/911af30/2da2032da203\n- invoke 60 byte is 8+13\\*8=112 byte with 4 => 8\nhttps://graypaper.fluffylabs.dev/#/911af30/342a01342a01\nhttps://graypaper.fluffylabs.dev/#/911af30/346101346101\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ihyXZ925hd0DqWY_a7u-fpvbYGDeSwkqaFtopXW6qSQ\n\n---\nSome candidate 32=>64:\n* service id might be 64-bit? https://graypaper.fluffylabs.dev/#/911af30/10da0010da00\nthus new's check/bump would need adjustment https://graypaper.fluffylabs.dev/#/911af30/30e00230e002\nhttps://graypaper.fluffylabs.dev/#/911af30/2da2032da203\n* invoke 60 byte is 8+13*8=125 byte with 4 => 8\nhttps://graypaper.fluffylabs.dev/#/911af30/342a01342a01\nhttps://graypaper.fluffylabs.dev/#/911af30/346101346101\n",
-			"date": 1732228118802,
-			"author": "@sourabhniyogi:matrix.org, @sourabhniyogi:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/10da0010da00\nthus",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 16, "index": 218 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$G44EHMzgHaZQtG5uhy_J-oHIZ5y87ux4x2QQyp6SRPY\n\n---\n> <@sourabhniyogi:matrix.org> Some candidate 32=>64:\n> * service id might be 64-bit? https://graypaper.fluffylabs.dev/#/911af30/10da0010da00\n> thus new's check/bump would need adjustment https://graypaper.fluffylabs.dev/#/911af30/30e00230e002\n> https://graypaper.fluffylabs.dev/#/911af30/2da2032da203\n> * invoke 60 byte is 8+13*8=125 byte with 4 => 8\n> https://graypaper.fluffylabs.dev/#/911af30/342a01342a01\n> https://graypaper.fluffylabs.dev/#/911af30/346101346101\n> \n\nService ID remains 32-bit (for now)",
-			"date": 1732181501765,
-			"author": "@gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/10da0010da00\n>",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 16, "index": 218 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Z2gqXRK09RNSnB-o-upgSNPalmFgcj1xooI4hLwbuVM\n\n---\n> <@sourabhniyogi:matrix.org> Small suggestion: the epoch marker here https://graypaper.fluffylabs.dev/#/911af30/0e52030e5203 may use $\\\\eta\\_0$ and $\\\\eta\\_1$ instead of $\\\\eta\\_1'$ and $\\\\eta\\_2'$ to keep the dependency graph here https://graypaper.fluffylabs.dev/#/911af30/098001098001 clean and easy to reason about -- its equivalent based on https://graypaper.fluffylabs.dev/#/911af30/0e57020e5702\n\nFeel free to make a PR.\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$aEK524AUNVbrP5gKpn39ajw04Z9pt75Nn7ciqM8-pPA\n\n---\n * Small suggestion: the epoch marker here https://graypaper.fluffylabs.dev/#/911af30/0e52030e5203 may use $\\\\eta\\_0$ and $\\\\eta\\_1$ instead of $\\\\eta\\_1'$ and $\\\\eta\\_2'$ to keep the dependency graph here https://graypaper.fluffylabs.dev/#/911af30/098001098001 clean and easy to reason about -- its equivalent based on https://graypaper.fluffylabs.dev/#/911af30/0e57020e5702\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$iBhL-k_zwrqEceK35wHD8E7C0TyEK_yBDS2VhbPyXOs\n\n---\nSmall suggestion: the epoch marker here https://graypaper.fluffylabs.dev/#/911af30/0e52030e5203 may use $\\eta_0$ and $\\eta_1$ instead of $\\eta_1'$ and $\\eta_2'$ to keep the dependency graph here https://graypaper.fluffylabs.dev/#/911af30/098001098001 clean",
-			"date": 1732469256043,
-			"author": "@sourabhniyogi:matrix.org, @sourabhniyogi:matrix.org, @gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/0e52030e5203",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 14, "index": 850 },
-			"selectionEnd": { "pageNumber": 14, "index": 850 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$zfVWy_IoLVz5FBqoo9OFF6MkmUlyioJpiWDvnoDxPsE\n\n---\n * https://graypaper.fluffylabs.dev/#/911af30/0d63000d7c00\nHello, (6.2) this R as remainder will strongly misunderstand by the constant R in Appendix. While the equation itself appears valid, it could lead to misunderstanding when reading the entire GP. Is there a better way to express this equation to avoid ambiguity\"\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$M8IhMfad1Yi5DIX99WNAY_rwLydQmqiIpqnWPBIEbrg\n\n---\nhttps://graypaper.fluffylabs.dev/#/911af30/0d63000d7c00\nHello, (6.2) this R as remainder will strongly misunderstand by the constant R in Appendix. Is there any better expression for this equation?",
-			"date": 1732473769122,
-			"author": "@yu2c:matrix.org, @yu2c:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/0d63000d7c00\nHello,",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 13, "index": 99 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$QmGHTHtl5h_rneUwYbX2FUh-N8gUPoiajyu5yX-5pGk\n\n---\n * Perhaps I'm missing something, but it's not clear to me what should happen with memory cells between `l` and `|v|` in case `l < |v|` in `import`. Should these be zeroed or just left as is?\nhttps://graypaper.fluffylabs.dev/#/911af30/32e20232e202\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ttVhXXF5tuxB8cL283QAZNwiuQVFi31YrmHkK2f4yDU\n\n---\n * Perhaps I'm missing something, but it's not clear to me what should happen with memory cells between `|v|` and `l` in case `l > |v|` in `import`. Should these be zeroed or just left as is?\nhttps://graypaper.fluffylabs.dev/#/911af30/32e20232e202\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$WKLxe4Gm_Sa9Y2Lay7TTLf3nnZPUFwF-SEQXpzPt28Y\n\n---\nPerhaps I'm missing something, but it's not clear to me what should happen with memory cells between `l` and `|v|` in case `l < |v|` in `import`. Should these be zeroed or just left as is?\nhttps://graypaper.fluffylabs.dev/#/911af30/32e20232e202",
-			"date": 1732472189745,
-			"author": "@tomusdrw:matrix.org, @tomusdrw:matrix.org, @tomusdrw:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/32e20232e202",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 50, "index": 738 },
-			"selectionEnd": { "pageNumber": 50, "index": 738 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$5ZNAtlFGJ7hvri2-qRSDfBCvas4WUAr8FvgtIs-7qQw\n\n---\n> <@yu2c:matrix.org> https://graypaper.fluffylabs.dev/#/911af30/0d63000d7c00\n> Hello, (6.2) this R as remainder will strongly misunderstand by the constant R in Appendix. Is there any better expression for this equation?\n\nIt is pretty standard (e.g. [here](https://study.com/academy/lesson/remainder-in-math-definition-theorem-examples.html#:~:text=The%20expression%20for%20division%20is,long%20division%20method%20is%20used) ) But I can probably circle it or something to make it more explicit.",
-			"date": 1732468857577,
-			"author": "@gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/0d63000d7c00\n>",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 13, "index": 99 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$thZiUEiBXJteE5j0KcB1bNkEyuHcEoKCHp5QXRrUCSg\n\n---\n> <@tomusdrw:matrix.org> Perhaps I'm missing something, but it's not clear to me what should happen with memory cells between `l` and `|v|` in case `l < |v|` in `import`. Should these be zeroed or just left as is?\n> https://graypaper.fluffylabs.dev/#/911af30/32e20232e202\n\nthat should have bold `v` replaced with bold `v_...l`",
-			"date": 1732468948413,
-			"author": "@gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/32e20232e202\n\nthat",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 50, "index": 738 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$aNi_eGbX2GxDTqRR2NFQJraOpS3LA7Jt_zRYyRHuIms\n\n---\ncould someone clarify please\n\nin chapter 4 we have PVM memory with page size of 2^12 https://graypaper.fluffylabs.dev/#/911af30/2b94002b9400\n\nin appendix A, in (A.31) (A.34) we have page size of 2^14 https://graypaper.fluffylabs.dev/#/911af30/2afe022afe02\nwhich one is it?\n\nthanks\n\n\n\n\n",
-			"date": 1732521736962,
-			"author": "@luke_fishman:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/2b94002b9400\n\nin",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 43, "index": 148 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Cyaq8s0JNxlfJ2KWAeHG18c6inwM_J6FuVBtmXOlYBk\n\n---\n> <@luke_fishman:matrix.org> could someone clarify please\n> \n> in chapter 4 we have PVM memory with page size of 2^12 https://graypaper.fluffylabs.dev/#/911af30/2b94002b9400\n> \n> in appendix A, in (A.31) (A.34) we have page size of 2^14 https://graypaper.fluffylabs.dev/#/911af30/2afe022afe02\n> which one is it?\n> \n> thanks\n\nSome of those instances of Z_P should have been renamed to Z_G. Will be [fixed](https://github.com/gavofyork/graypaper/pull/150/commits/10e09e6d1bfb0e3ec37e8007ee9deef850059abd) in 0.5.1",
-			"date": 1732522183648,
-			"author": "@gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/2b94002b9400\n>",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 43, "index": 148 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$m7Agn1vl8XXXm15n8jmKY3lt7vzNcPeL9Urq0CiVS6U\n\n---\ndavyx raised a dilemma over gas constants; if `G_T` is `the total gas allocated across all cores for accumulation`, and `G_A` is `the total gass allocated to a core for accumulation`, should `G_A` be `G_T / C`?\n\nhttps://graypaper.fluffylabs.dev/#/911af30/3f43003f5200",
-			"date": 1732551867142,
-			"author": "@dakkk:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/3f43003f5200",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 63, "index": 67 },
-			"selectionEnd": { "pageNumber": 63, "index": 82 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$UCOIVF4Fkrc08-xGMuGgp9I2bEqJNHECTLh8WOPhPqo\n\n---\n> <@dakkk:matrix.org> davyx raised a dilemma over gas constants; if `G_T` is `the total gas allocated across all cores for accumulation`, and `G_A` is `the total gass allocated to a core for accumulation`, should `G_A` be `G_T / C`?\n> \n> https://graypaper.fluffylabs.dev/#/911af30/3f43003f5200\n\nNo not any more",
-			"date": 1732552147353,
-			"author": "@gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/3f43003f5200\n\nNo",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 63, "index": 67 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$TZIVf0NKs1IoiccBfxkqAJmH7VZL5NnwcrsO8Uch4dI\n\n---\n * https://graypaper.fluffylabs.dev/#/911af30/36cb02362803\n\nCan state-key constructor functions C be enhanced with a \"type\" identifier? something like:\n\n```\n(i ∈ N28, t ∈ N2) ↦ [i, 0, 0, . . . ,t]\n(i, s ∈ NS, t ∈ N2) ↦ [i, n0, 0, n1, 0, n2, 0, n3, 0, 0, . . . ,t] where n = E4(s) \n(s, h, t) ↦ [n0, h0, n1, h1, n2, h2, n3, h3, h4, h5, . . . , h26, t] where n = E4(s)\n```\n\nso that we can determine the expected type (δ, a\\_s, a\\_p, a\\_l) from the C key alone?\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ofa5_9Bmffk4k73CwX6eSmtJoHiz3LXB0pklcOPDzOw\n\n---\nhttps://graypaper.fluffylabs.dev/#/911af30/36cb02362803\n\nCan state-key constructor functions C be enhanced with a \"type\" identifier? something like: \n\n```\n(i ∈ N28, t ∈ N2) ↦ [i, t, 0, 0, . . . ]\n(i, s ∈ NS, t ∈ N2) ↦ [i, t, n0, 0, n1, 0, n2, 0, n3, 0, 0, . . . ] where n = E4(s) \n(s, h, t) ↦ [t, n0, h0, n1, h1, n2, h2, n3, h3, h4, h5, . . . , h26] where n = E4(s)\n```\nso that we can determine the expected type (δ, a_s, a_p, a_l) from the C key alone?",
-			"date": 1732581274826,
-			"author": "@mkchung:matrix.org, @mkchung:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/36cb02362803\n\nCan",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 54, "index": 715 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$IdDrt12C_CaI6KWFfd7OvaI_B_OmNuB-OnUVpYWZlV0\n\n---\n * to include the original inputs\n(a) s for δ https://graypaper.fluffylabs.dev/#/911af30/371402371402\n(b) k (original 32-bit) for a\\_s https://graypaper.fluffylabs.dev/#/911af30/372a02372a02\n(c) h (original 32-bit) for a\\_p https://graypaper.fluffylabs.dev/#/911af30/373d02373d02\n(d) (h, l) for [a\\_l](https://graypaper.fluffylabs.dev/#/911af30/375002375002)\n\nThis would require that implementers keep all the metadata { s, k, h, l } for all of (a)-(d), and is useful for implementers to debug in M1-M4.  May I suggest that we have a nice human reasonable JSON format and a matching state trie dump codec  test vector that is not just raw key-vals but organized by serviceID complete with this additional metadata { k, h, l }.   \n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$TmkvDJvyEy81rJFlVahzghQD4ux2GfNdoCscCmKVWeg\n\n---\nto include the original inputs\n(a) s for δ https://graypaper.fluffylabs.dev/#/911af30/371402371402\n(b) k (original 32-bit) for a_s https://graypaper.fluffylabs.dev/#/911af30/372a02372a02\n(c) h (original 32-bit) for a_p\n(d) (h, l) for a_l\n\nThis would require that implementers keep all the metadata { s, k, h, l } for all of (a)-(d), and is useful for implementers to debug in M1-M4.  May I suggest that we have a nice human reasonable JSON format and a matching state trie dump codec  test vector that is not just raw key-vals but organized by serviceID complete with this additional metadata { k, h, l }.   ",
-			"date": 1732644063884,
-			"author": "@sourabhniyogi:matrix.org, @sourabhniyogi:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/371402371402\n(b)",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 55, "index": 532 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$xe3BS8pgSONs0Syzf5LR0ye1Rcq4K6xIJi2o9KqRG5w\n\n---\n * to include the original inputs to C\n(a) s for [δ](https://graypaper.fluffylabs.dev/#/911af30/371402371402)\n(b) k (original 32-bit) for [a\\_s]( https://graypaper.fluffylabs.dev/#/911af30/372a02372a02)\n(c) h (original 32-bit) for [a\\_p]( https://graypaper.fluffylabs.dev/#/911af30/373d02373d02)\n(d) (h, l) for [a\\_l](https://graypaper.fluffylabs.dev/#/911af30/375002375002)\n\nThis would require that implementers keep all the metadata { s, k, h, l } for all of (a)-(d), and is useful for implementers to debug in M1-M4.  May I suggest that we have a nice human reasonable JSON format and a matching state trie dump codec  test vector that is not just raw key-vals but organized by serviceID complete with this additional metadata { k, h, l }.",
-			"date": 1732644091198,
-			"author": "@sourabhniyogi:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/371402371402)\n(b)",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 55, "index": 532 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$yOJbcuUsTtzunZ5o5Eawt1zIUYKtMaLHyzCvEw_nnEU\n\n---\nConcerning the accumulation queue, we are struggling to come up with a test case where we have 12.3 https://graypaper.fluffylabs.dev/#/911af30/167100167100 filled with anything because 11.38 https://graypaper.fluffylabs.dev/#/911af30/156001156001 makes it difficult to impossible to do so.   \n\nConcretely, if package M has package F as a prerequisite, because of 11.38 requirement, M can't even get a work report in for 12.3 to matter.   Put another way, 11.38 has prereqs constraining refine of M before 12.3 accumulation can matter.  \nHow can we get a good test case for accumulation queue then?  \n\nWe must be misunderstanding something here.",
-			"date": 1732727215160,
-			"author": "@sourabhniyogi:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/167100167100",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 22, "index": 113 },
-			"selectionEnd": { "pageNumber": 22, "index": 113 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$MokkZyJEFtMqJPHzPBUAb0vMHbKkFOeOyxoOWpzYooY\n\n---\nHere is the thing -- by 11.38 B cannot become available before A because of this requirement https://graypaper.fluffylabs.dev/#/911af30/156001156001",
-			"date": 1732727670703,
-			"author": "@sourabhniyogi:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/156001156001",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 21, "index": 352 },
-			"selectionEnd": { "pageNumber": 21, "index": 352 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ljbfMY0h2tGWl_9y0HX8-qRBNCX0zKMDjnQ7MCYA4rw\n\n---\nhttps://graypaper.fluffylabs.dev/#/911af30/162e02162f02\nPotential typo: \"the queue of work-reports\" should be \"the queue of authorizers\"?",
-			"date": 1732858303182,
-			"author": "@0xjunha:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/162e02162f02\nPotential",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 22, "index": 558 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$oHQsgpCWqHO_c-aaL29uZrSgUfigJ27oNqq1ruezMGM\n\n---\nhttps://graypaper.fluffylabs.dev/#/911af30/2af3002a0801\nhttps://graypaper.fluffylabs.dev/#/911af30/23b20123c401\n^ It seems type for the instruction counter is missing in these definitions\n\nhttps://graypaper.fluffylabs.dev/#/911af30/2bd8012bd801\n^ And type for the instruction could be `N_R`, it is currently marked as `N`.",
-			"date": 1732885539474,
-			"author": "@0xjunha:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/2af3002a0801\nhttps://graypaper.fluffylabs.dev/#/911af30/23b20123c401\n^",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 42, "index": 243 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$iUwZ7VrBsb0ZHOi24Il14G14GyiJ9DR0dAIQNFPkmk8\n\n---\n> <@0xjunha:matrix.org> https://graypaper.fluffylabs.dev/#/911af30/2af3002a0801\n> https://graypaper.fluffylabs.dev/#/911af30/23b20123c401\n> ^ It seems type for the instruction counter is missing in these definitions\n> \n> https://graypaper.fluffylabs.dev/#/911af30/2bd8012bd801\n> ^ And type for the instruction could be `N_R`, it is currently marked as `N`.\n\nWill be corrected in 0.5.1: PVM: Don't forget the instruction counter in prototype",
-			"date": 1732893574152,
-			"author": "@gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/2af3002a0801\n>",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 42, "index": 243 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$HqMBgVxHzhknDhZ54wuL0ivPR4T1qTU3sEAQzUIAb70\n\n---\nAnother small correction for consistency: wrapping the `(x_s)_l` with `\\keys{}` here\nhttps://graypaper.fluffylabs.dev/#/911af30/31b30231b302\n",
-			"date": 1732973296486,
-			"author": "@0xjunha:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/31b30231b302\n",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 49, "index": 691 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$TEjBv_txXfeqwWUHcUk4Egt2hl9LO7YDQKx7pISaj7Q\n\n---\n * Hello, guess i am missing something.\nin [Refine Invocation](https://graypaper.fluffylabs.dev/#/911af30/2c5b012c5b01) we only ever call the Argument Invocation with **x = (∅, \\[\\])**\nthis then passes on through ΨM and ΨH and eventually one of the Omegas in [B.8](https://graypaper.fluffylabs.dev/#/911af30/322101322101) is getting called with this pair as an argument\n\nso if we only ever pass \"empty\" pair, how will the internal Omegas ever operate on non empty argument?\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$f1bGJfRFIdgU16WChAdxpoVxXbhXz2iUdQ-EdZw7pbw\n\n---\nHello, guess i am missing something.\nin [Refine Invocation](https://graypaper.fluffylabs.dev/#/911af30/2c5b012c5b01) we only ever call the Argument Invocation with x = (∅, [])\nthis then passes on through ΨM and ΨH and eventually one of the Omegas in [B.8](https://graypaper.fluffylabs.dev/#/911af30/322101322101) is getting called with this pair as an argument\n\nso if we only ever pass \"empty\" pair, how will the internal Omegas ever operate on non empty argument?\n",
-			"date": 1733396751184,
-			"author": "@luke_fishman:matrix.org, @luke_fishman:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/2c5b012c5b01)",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 44, "index": 347 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$LosTLneyAYiYR0WRDpFqUjnh-BAwAYbAZQ-CvJTXzfQ\n\n---\n * We use the paged proof hashed segments for building segment justification.\n\nThe segment root is built with a constancy preprocessor that prepends \"$leaf\" to the data.\n\nShouldn't we also prepend \"$leaf\" here?\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1a18011a1f01\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Q8UWy1Lq0ir4YiBOTPxmKKwSW0Mw4X46ouUpAdh-vPs\n\n---\nWhen we are building paged proof, we will use the paged proof 64 hashed segments data for building segment justification.\n\nThe export root is built with a constancy preprocessor that prepends \"$leaf\" to the data.\n\nShouldn't we also prepend \"$leaf\" here?\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1a18011a1f01",
-			"date": 1733456286697,
-			"author": "@amritj:matrix.org, @amritj:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/1a18011a1f01",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 26, "index": 280 },
-			"selectionEnd": { "pageNumber": 26, "index": 287 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$T-P0S-AaKCpb161GHhcldweFPEs4kcDDbrQzLLBllFo\n\n---\n> <@amritj:matrix.org> We use the paged proof hashed segments for building segment justification.\n> \n> The segment root is built with a constancy preprocessor that prepends \"$leaf\" to the data.\n> \n> Shouldn't we also prepend \"$leaf\" here?\n> \n> https://graypaper.fluffylabs.dev/#/911af30/1a18011a1f01\n\nYes in the present system it would be needed. I might alter things so that for the pages proofs tree we don’t bother with the leaf/node prefixes at all since they’re redundant here. ",
-			"date": 1733472349347,
-			"author": "@gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/1a18011a1f01\n\nYes",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 26, "index": 280 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$zyZZhfKQfFUh3L5tX7th3sYbgomRK77QRHLFut0UCqI\n\n---\n * One more suggestion, I think we should also check the export count in the work package items to be equal to the length of the actually exported segments.\n\nOtherwise, work item can export more segments than Wm (2\\*\\*11) and I think may even overwrite index of the export segment of next work item\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$q7dG-92mT-9SKiEt3fwqKwuDZYdsGx9O107YOMf_odc\n\n---\n * One more suggestion, I think we should also check the export count in the work package items to be equal to the length of the actually exported segments.\n\nOtherwise, work item can export more segments than Wm (2\\*\\*11) and I think may even overwrite index of the export segment of next work item as node might calculate the next work item export start using the export\\_count variable\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$44qeyha6EArT07UjYH97UnHpPmqNKK51J3QaJWBVC_o\n\n---\nOne more suggestions, I think we should also check the export count in the work package items to be equal to the length of the actually exported segments.\n\nOtherwise, work item can export more segments than Wm (2**11) and I think may even overwrite index of the export segment of next work item as node might calculate the next work item export start using the export_count variable\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02",
-			"date": 1733499354567,
-			"author": "@amritj:matrix.org, @amritj:matrix.org, @amritj:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 26, "index": 524 },
-			"selectionEnd": { "pageNumber": 26, "index": 524 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$-w4-V-6N3vdBt-1_Ld76vQ_OkGuTkki3UzwRDNrEamE\n\n---\n * Also, I can find any such constant named Wx, I think it should be Wm\n\nhttps://graypaper.fluffylabs.dev/#/911af30/33ae0033ae00\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$AmRvy5MmgolTCZqtODhaVVYWfeJaEXFJVYfXvGiql14\n\n---\nAlso, there is no such constant like Wx here, I think it should be Wm\n\nhttps://graypaper.fluffylabs.dev/#/911af30/33ae0033ae00",
-			"date": 1733497604023,
-			"author": "@amritj:matrix.org, @amritj:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/33ae0033ae00",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 51, "index": 174 },
-			"selectionEnd": { "pageNumber": 51, "index": 174 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$sDdh4cmBZ27xCI-5TpXRMftXk7aOOS4i7yxUQjXeIfo\n\n---\n> <@amritj:matrix.org> One more suggestion, I think we should also check the export count in the work package items to be equal to the length of the actually exported segments.\n> \n> Otherwise, work item can export more segments than Wm (2\\*\\*11) and I think may even overwrite index of the export segment of next work item\n> \n> https://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02\n\nIt's technically impossible to validly export more items than W_M already due to the condition in the `export` host-call (the only way to validly append an export)",
-			"date": 1733502813128,
-			"author": "@gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02\n\nIt's",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 26, "index": 524 },
-			"selectionEnd": { "pageNumber": 0, "index": 0 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ZXZQmGn1ibjEU_FinhZqgTDhueGsPpB-Sp1p8TXwJog\n\n---\nBut in any case, there's a required limitation placed on work-packages here: https://graypaper.fluffylabs.dev/#/911af30/19f500190501",
-			"date": 1733502908685,
-			"author": "@gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/19f500190501",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 25, "index": 245 },
-			"selectionEnd": { "pageNumber": 25, "index": 261 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$XHj2Rb4I_iLCM6h8vJmZ0qi0xK0cGq4ldNgRMchvfAw\n\n---\n * Question:\n\nIn auditing, we consider the report audited if the report have no negative judgement and there exists some tranche where all validators required to audit have positive judgement about the report.\n\nIn case some validator announced a audit but failed to deliver the judgement, and new audits are announced to cover that.\n\nSo, the new tranche A_n will be = old tranche auditors + new auditors just announced - auditors failed to deliver judgement ?\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1eab001eae00",
-			"date": 1733569129048,
-			"author": "@amritj:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/1eab001eae00",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 30, "index": 171 },
-			"selectionEnd": { "pageNumber": 30, "index": 174 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$95gqBKgPLHIAYohKN2IEofxpODQS92ten8CSBF40Q0c\n\n---\nThis is described in the paragraph here: https://graypaper.fluffylabs.dev/#/911af30/1e18001e2000",
-			"date": 1733572865701,
-			"author": "@gav:polkadot.io",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/1e18001e2000",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 30, "index": 24 },
-			"selectionEnd": { "pageNumber": 30, "index": 32 },
-			"labels": ["element"]
-		},
-		{
-			"noteVersion": 3,
-			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$hLpBBbtDDAa2JJOoD4JwK5EvaaQP0RvH-Vp-xalD9hg\n\n---\n * The work report's authorizer\\_hash is removed from the authorizer pool when it is placed on the core. https://graypaper.fluffylabs.dev/#/911af30/10b50010ba00\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$z0dL-vbFHofG6w9cLL6IuIOD6lqP9j8jWV3_5hrlRDM\n\n---\n * The work report's authorizer\\_hash is removed from the authoriser pool when it is placed on the core. https://graypaper.fluffylabs.dev/#/911af30/10b50010ba00\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$MMU_rQID9FD8gUhHEX6WrqKFVDralLUZ3Obs6ayluGg\n\n---\n * I think the work report's authorizer\\_hash is removed from the authoriser pool when it is placed on the core. https://graypaper.fluffylabs.dev/#/911af30/10b50010ba00",
-			"date": 1733955444535,
-			"author": "@vinsystems:matrix.org, @vinsystems:matrix.org, @vinsystems:matrix.org",
-			"link": "https://graypaper.fluffylabs.dev/#/911af30/10b50010ba00",
-			"version": "911af30f94dad0c7784d60d568d9c032517821ee",
-			"selectionStart": { "pageNumber": 16, "index": 181 },
-			"selectionEnd": { "pageNumber": 16, "index": 186 },
-			"labels": ["element"]
-		}
-	]
+  "version": 3,
+  "notes": [
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$7BkURz3PeFS_yzdOYCqic-qAXwIDMd9x67bqVWuafaQ\n\n---\n * Some candidate 32=>64:\n\n- service id might be 64-bit? https://graypaper.fluffylabs.dev/#/911af30/10da0010da00\nthus new's check/bump would need adjustment https://graypaper.fluffylabs.dev/#/911af30/30e00230e002\nhttps://graypaper.fluffylabs.dev/#/911af30/2da2032da203\n- invoke 60 byte is 8+13\\*8=112 byte with 4 => 8\nhttps://graypaper.fluffylabs.dev/#/911af30/342a01342a01\nhttps://graypaper.fluffylabs.dev/#/911af30/346101346101\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ihyXZ925hd0DqWY_a7u-fpvbYGDeSwkqaFtopXW6qSQ\n\n---\nSome candidate 32=>64:\n* service id might be 64-bit? https://graypaper.fluffylabs.dev/#/911af30/10da0010da00\nthus new's check/bump would need adjustment https://graypaper.fluffylabs.dev/#/911af30/30e00230e002\nhttps://graypaper.fluffylabs.dev/#/911af30/2da2032da203\n* invoke 60 byte is 8+13*8=125 byte with 4 => 8\nhttps://graypaper.fluffylabs.dev/#/911af30/342a01342a01\nhttps://graypaper.fluffylabs.dev/#/911af30/346101346101\n",
+      "date": 1732228118802,
+      "author": "@sourabhniyogi:matrix.org, @sourabhniyogi:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/10da0010da00\nthus",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 16,
+        "index": 218
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$G44EHMzgHaZQtG5uhy_J-oHIZ5y87ux4x2QQyp6SRPY\n\n---\n> <@sourabhniyogi:matrix.org> Some candidate 32=>64:\n> * service id might be 64-bit? https://graypaper.fluffylabs.dev/#/911af30/10da0010da00\n> thus new's check/bump would need adjustment https://graypaper.fluffylabs.dev/#/911af30/30e00230e002\n> https://graypaper.fluffylabs.dev/#/911af30/2da2032da203\n> * invoke 60 byte is 8+13*8=125 byte with 4 => 8\n> https://graypaper.fluffylabs.dev/#/911af30/342a01342a01\n> https://graypaper.fluffylabs.dev/#/911af30/346101346101\n> \n\nService ID remains 32-bit (for now)",
+      "date": 1732181501765,
+      "author": "@gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/10da0010da00\n>",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 16,
+        "index": 218
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Z2gqXRK09RNSnB-o-upgSNPalmFgcj1xooI4hLwbuVM\n\n---\n> <@sourabhniyogi:matrix.org> Small suggestion: the epoch marker here https://graypaper.fluffylabs.dev/#/911af30/0e52030e5203 may use $\\\\eta\\_0$ and $\\\\eta\\_1$ instead of $\\\\eta\\_1'$ and $\\\\eta\\_2'$ to keep the dependency graph here https://graypaper.fluffylabs.dev/#/911af30/098001098001 clean and easy to reason about -- its equivalent based on https://graypaper.fluffylabs.dev/#/911af30/0e57020e5702\n\nFeel free to make a PR.\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$aEK524AUNVbrP5gKpn39ajw04Z9pt75Nn7ciqM8-pPA\n\n---\n * Small suggestion: the epoch marker here https://graypaper.fluffylabs.dev/#/911af30/0e52030e5203 may use $\\\\eta\\_0$ and $\\\\eta\\_1$ instead of $\\\\eta\\_1'$ and $\\\\eta\\_2'$ to keep the dependency graph here https://graypaper.fluffylabs.dev/#/911af30/098001098001 clean and easy to reason about -- its equivalent based on https://graypaper.fluffylabs.dev/#/911af30/0e57020e5702\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$iBhL-k_zwrqEceK35wHD8E7C0TyEK_yBDS2VhbPyXOs\n\n---\nSmall suggestion: the epoch marker here https://graypaper.fluffylabs.dev/#/911af30/0e52030e5203 may use $\\eta_0$ and $\\eta_1$ instead of $\\eta_1'$ and $\\eta_2'$ to keep the dependency graph here https://graypaper.fluffylabs.dev/#/911af30/098001098001 clean",
+      "date": 1732469256043,
+      "author": "@sourabhniyogi:matrix.org, @sourabhniyogi:matrix.org, @gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/0e52030e5203",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 14,
+        "index": 850
+      },
+      "selectionEnd": {
+        "pageNumber": 14,
+        "index": 850
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$zfVWy_IoLVz5FBqoo9OFF6MkmUlyioJpiWDvnoDxPsE\n\n---\n * https://graypaper.fluffylabs.dev/#/911af30/0d63000d7c00\nHello, (6.2) this R as remainder will strongly misunderstand by the constant R in Appendix. While the equation itself appears valid, it could lead to misunderstanding when reading the entire GP. Is there a better way to express this equation to avoid ambiguity\"\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$M8IhMfad1Yi5DIX99WNAY_rwLydQmqiIpqnWPBIEbrg\n\n---\nhttps://graypaper.fluffylabs.dev/#/911af30/0d63000d7c00\nHello, (6.2) this R as remainder will strongly misunderstand by the constant R in Appendix. Is there any better expression for this equation?",
+      "date": 1732473769122,
+      "author": "@yu2c:matrix.org, @yu2c:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/0d63000d7c00\nHello,",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 13,
+        "index": 99
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$QmGHTHtl5h_rneUwYbX2FUh-N8gUPoiajyu5yX-5pGk\n\n---\n * Perhaps I'm missing something, but it's not clear to me what should happen with memory cells between `l` and `|v|` in case `l < |v|` in `import`. Should these be zeroed or just left as is?\nhttps://graypaper.fluffylabs.dev/#/911af30/32e20232e202\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ttVhXXF5tuxB8cL283QAZNwiuQVFi31YrmHkK2f4yDU\n\n---\n * Perhaps I'm missing something, but it's not clear to me what should happen with memory cells between `|v|` and `l` in case `l > |v|` in `import`. Should these be zeroed or just left as is?\nhttps://graypaper.fluffylabs.dev/#/911af30/32e20232e202\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$WKLxe4Gm_Sa9Y2Lay7TTLf3nnZPUFwF-SEQXpzPt28Y\n\n---\nPerhaps I'm missing something, but it's not clear to me what should happen with memory cells between `l` and `|v|` in case `l < |v|` in `import`. Should these be zeroed or just left as is?\nhttps://graypaper.fluffylabs.dev/#/911af30/32e20232e202",
+      "date": 1732472189745,
+      "author": "@tomusdrw:matrix.org, @tomusdrw:matrix.org, @tomusdrw:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/32e20232e202",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 50,
+        "index": 738
+      },
+      "selectionEnd": {
+        "pageNumber": 50,
+        "index": 738
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$5ZNAtlFGJ7hvri2-qRSDfBCvas4WUAr8FvgtIs-7qQw\n\n---\n> <@yu2c:matrix.org> https://graypaper.fluffylabs.dev/#/911af30/0d63000d7c00\n> Hello, (6.2) this R as remainder will strongly misunderstand by the constant R in Appendix. Is there any better expression for this equation?\n\nIt is pretty standard (e.g. [here](https://study.com/academy/lesson/remainder-in-math-definition-theorem-examples.html#:~:text=The%20expression%20for%20division%20is,long%20division%20method%20is%20used) ) But I can probably circle it or something to make it more explicit.",
+      "date": 1732468857577,
+      "author": "@gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/0d63000d7c00\n>",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 13,
+        "index": 99
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$thZiUEiBXJteE5j0KcB1bNkEyuHcEoKCHp5QXRrUCSg\n\n---\n> <@tomusdrw:matrix.org> Perhaps I'm missing something, but it's not clear to me what should happen with memory cells between `l` and `|v|` in case `l < |v|` in `import`. Should these be zeroed or just left as is?\n> https://graypaper.fluffylabs.dev/#/911af30/32e20232e202\n\nthat should have bold `v` replaced with bold `v_...l`",
+      "date": 1732468948413,
+      "author": "@gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/32e20232e202\n\nthat",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 50,
+        "index": 738
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$aNi_eGbX2GxDTqRR2NFQJraOpS3LA7Jt_zRYyRHuIms\n\n---\ncould someone clarify please\n\nin chapter 4 we have PVM memory with page size of 2^12 https://graypaper.fluffylabs.dev/#/911af30/2b94002b9400\n\nin appendix A, in (A.31) (A.34) we have page size of 2^14 https://graypaper.fluffylabs.dev/#/911af30/2afe022afe02\nwhich one is it?\n\nthanks\n\n\n\n\n",
+      "date": 1732521736962,
+      "author": "@luke_fishman:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/2b94002b9400\n\nin",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 43,
+        "index": 148
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Cyaq8s0JNxlfJ2KWAeHG18c6inwM_J6FuVBtmXOlYBk\n\n---\n> <@luke_fishman:matrix.org> could someone clarify please\n> \n> in chapter 4 we have PVM memory with page size of 2^12 https://graypaper.fluffylabs.dev/#/911af30/2b94002b9400\n> \n> in appendix A, in (A.31) (A.34) we have page size of 2^14 https://graypaper.fluffylabs.dev/#/911af30/2afe022afe02\n> which one is it?\n> \n> thanks\n\nSome of those instances of Z_P should have been renamed to Z_G. Will be [fixed](https://github.com/gavofyork/graypaper/pull/150/commits/10e09e6d1bfb0e3ec37e8007ee9deef850059abd) in 0.5.1",
+      "date": 1732522183648,
+      "author": "@gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/2b94002b9400\n>",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 43,
+        "index": 148
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$m7Agn1vl8XXXm15n8jmKY3lt7vzNcPeL9Urq0CiVS6U\n\n---\ndavyx raised a dilemma over gas constants; if `G_T` is `the total gas allocated across all cores for accumulation`, and `G_A` is `the total gass allocated to a core for accumulation`, should `G_A` be `G_T / C`?\n\nhttps://graypaper.fluffylabs.dev/#/911af30/3f43003f5200",
+      "date": 1732551867142,
+      "author": "@dakkk:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/3f43003f5200",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 63,
+        "index": 67
+      },
+      "selectionEnd": {
+        "pageNumber": 63,
+        "index": 82
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$UCOIVF4Fkrc08-xGMuGgp9I2bEqJNHECTLh8WOPhPqo\n\n---\n> <@dakkk:matrix.org> davyx raised a dilemma over gas constants; if `G_T` is `the total gas allocated across all cores for accumulation`, and `G_A` is `the total gass allocated to a core for accumulation`, should `G_A` be `G_T / C`?\n> \n> https://graypaper.fluffylabs.dev/#/911af30/3f43003f5200\n\nNo not any more",
+      "date": 1732552147353,
+      "author": "@gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/3f43003f5200\n\nNo",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 63,
+        "index": 67
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$TZIVf0NKs1IoiccBfxkqAJmH7VZL5NnwcrsO8Uch4dI\n\n---\n * https://graypaper.fluffylabs.dev/#/911af30/36cb02362803\n\nCan state-key constructor functions C be enhanced with a \"type\" identifier? something like:\n\n```\n(i ∈ N28, t ∈ N2) ↦ [i, 0, 0, . . . ,t]\n(i, s ∈ NS, t ∈ N2) ↦ [i, n0, 0, n1, 0, n2, 0, n3, 0, 0, . . . ,t] where n = E4(s) \n(s, h, t) ↦ [n0, h0, n1, h1, n2, h2, n3, h3, h4, h5, . . . , h26, t] where n = E4(s)\n```\n\nso that we can determine the expected type (δ, a\\_s, a\\_p, a\\_l) from the C key alone?\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ofa5_9Bmffk4k73CwX6eSmtJoHiz3LXB0pklcOPDzOw\n\n---\nhttps://graypaper.fluffylabs.dev/#/911af30/36cb02362803\n\nCan state-key constructor functions C be enhanced with a \"type\" identifier? something like: \n\n```\n(i ∈ N28, t ∈ N2) ↦ [i, t, 0, 0, . . . ]\n(i, s ∈ NS, t ∈ N2) ↦ [i, t, n0, 0, n1, 0, n2, 0, n3, 0, 0, . . . ] where n = E4(s) \n(s, h, t) ↦ [t, n0, h0, n1, h1, n2, h2, n3, h3, h4, h5, . . . , h26] where n = E4(s)\n```\nso that we can determine the expected type (δ, a_s, a_p, a_l) from the C key alone?",
+      "date": 1732581274826,
+      "author": "@mkchung:matrix.org, @mkchung:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/36cb02362803\n\nCan",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 54,
+        "index": 715
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$IdDrt12C_CaI6KWFfd7OvaI_B_OmNuB-OnUVpYWZlV0\n\n---\n * to include the original inputs\n(a) s for δ https://graypaper.fluffylabs.dev/#/911af30/371402371402\n(b) k (original 32-bit) for a\\_s https://graypaper.fluffylabs.dev/#/911af30/372a02372a02\n(c) h (original 32-bit) for a\\_p https://graypaper.fluffylabs.dev/#/911af30/373d02373d02\n(d) (h, l) for [a\\_l](https://graypaper.fluffylabs.dev/#/911af30/375002375002)\n\nThis would require that implementers keep all the metadata { s, k, h, l } for all of (a)-(d), and is useful for implementers to debug in M1-M4.  May I suggest that we have a nice human reasonable JSON format and a matching state trie dump codec  test vector that is not just raw key-vals but organized by serviceID complete with this additional metadata { k, h, l }.   \n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$TmkvDJvyEy81rJFlVahzghQD4ux2GfNdoCscCmKVWeg\n\n---\nto include the original inputs\n(a) s for δ https://graypaper.fluffylabs.dev/#/911af30/371402371402\n(b) k (original 32-bit) for a_s https://graypaper.fluffylabs.dev/#/911af30/372a02372a02\n(c) h (original 32-bit) for a_p\n(d) (h, l) for a_l\n\nThis would require that implementers keep all the metadata { s, k, h, l } for all of (a)-(d), and is useful for implementers to debug in M1-M4.  May I suggest that we have a nice human reasonable JSON format and a matching state trie dump codec  test vector that is not just raw key-vals but organized by serviceID complete with this additional metadata { k, h, l }.   ",
+      "date": 1732644063884,
+      "author": "@sourabhniyogi:matrix.org, @sourabhniyogi:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/371402371402\n(b)",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 55,
+        "index": 532
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$xe3BS8pgSONs0Syzf5LR0ye1Rcq4K6xIJi2o9KqRG5w\n\n---\n * to include the original inputs to C\n(a) s for [δ](https://graypaper.fluffylabs.dev/#/911af30/371402371402)\n(b) k (original 32-bit) for [a\\_s]( https://graypaper.fluffylabs.dev/#/911af30/372a02372a02)\n(c) h (original 32-bit) for [a\\_p]( https://graypaper.fluffylabs.dev/#/911af30/373d02373d02)\n(d) (h, l) for [a\\_l](https://graypaper.fluffylabs.dev/#/911af30/375002375002)\n\nThis would require that implementers keep all the metadata { s, k, h, l } for all of (a)-(d), and is useful for implementers to debug in M1-M4.  May I suggest that we have a nice human reasonable JSON format and a matching state trie dump codec  test vector that is not just raw key-vals but organized by serviceID complete with this additional metadata { k, h, l }.",
+      "date": 1732644091198,
+      "author": "@sourabhniyogi:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/371402371402)\n(b)",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 55,
+        "index": 532
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$yOJbcuUsTtzunZ5o5Eawt1zIUYKtMaLHyzCvEw_nnEU\n\n---\nConcerning the accumulation queue, we are struggling to come up with a test case where we have 12.3 https://graypaper.fluffylabs.dev/#/911af30/167100167100 filled with anything because 11.38 https://graypaper.fluffylabs.dev/#/911af30/156001156001 makes it difficult to impossible to do so.   \n\nConcretely, if package M has package F as a prerequisite, because of 11.38 requirement, M can't even get a work report in for 12.3 to matter.   Put another way, 11.38 has prereqs constraining refine of M before 12.3 accumulation can matter.  \nHow can we get a good test case for accumulation queue then?  \n\nWe must be misunderstanding something here.",
+      "date": 1732727215160,
+      "author": "@sourabhniyogi:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/167100167100",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 22,
+        "index": 113
+      },
+      "selectionEnd": {
+        "pageNumber": 22,
+        "index": 113
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$MokkZyJEFtMqJPHzPBUAb0vMHbKkFOeOyxoOWpzYooY\n\n---\nHere is the thing -- by 11.38 B cannot become available before A because of this requirement https://graypaper.fluffylabs.dev/#/911af30/156001156001",
+      "date": 1732727670703,
+      "author": "@sourabhniyogi:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/156001156001",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 21,
+        "index": 352
+      },
+      "selectionEnd": {
+        "pageNumber": 21,
+        "index": 352
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ljbfMY0h2tGWl_9y0HX8-qRBNCX0zKMDjnQ7MCYA4rw\n\n---\nhttps://graypaper.fluffylabs.dev/#/911af30/162e02162f02\nPotential typo: \"the queue of work-reports\" should be \"the queue of authorizers\"?",
+      "date": 1732858303182,
+      "author": "@0xjunha:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/162e02162f02\nPotential",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 22,
+        "index": 558
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$oHQsgpCWqHO_c-aaL29uZrSgUfigJ27oNqq1ruezMGM\n\n---\nhttps://graypaper.fluffylabs.dev/#/911af30/2af3002a0801\nhttps://graypaper.fluffylabs.dev/#/911af30/23b20123c401\n^ It seems type for the instruction counter is missing in these definitions\n\nhttps://graypaper.fluffylabs.dev/#/911af30/2bd8012bd801\n^ And type for the instruction could be `N_R`, it is currently marked as `N`.",
+      "date": 1732885539474,
+      "author": "@0xjunha:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/2af3002a0801\nhttps://graypaper.fluffylabs.dev/#/911af30/23b20123c401\n^",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 42,
+        "index": 243
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$iUwZ7VrBsb0ZHOi24Il14G14GyiJ9DR0dAIQNFPkmk8\n\n---\n> <@0xjunha:matrix.org> https://graypaper.fluffylabs.dev/#/911af30/2af3002a0801\n> https://graypaper.fluffylabs.dev/#/911af30/23b20123c401\n> ^ It seems type for the instruction counter is missing in these definitions\n> \n> https://graypaper.fluffylabs.dev/#/911af30/2bd8012bd801\n> ^ And type for the instruction could be `N_R`, it is currently marked as `N`.\n\nWill be corrected in 0.5.1: PVM: Don't forget the instruction counter in prototype",
+      "date": 1732893574152,
+      "author": "@gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/2af3002a0801\n>",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 42,
+        "index": 243
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$HqMBgVxHzhknDhZ54wuL0ivPR4T1qTU3sEAQzUIAb70\n\n---\nAnother small correction for consistency: wrapping the `(x_s)_l` with `\\keys{}` here\nhttps://graypaper.fluffylabs.dev/#/911af30/31b30231b302\n",
+      "date": 1732973296486,
+      "author": "@0xjunha:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/31b30231b302\n",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 49,
+        "index": 691
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$TEjBv_txXfeqwWUHcUk4Egt2hl9LO7YDQKx7pISaj7Q\n\n---\n * Hello, guess i am missing something.\nin [Refine Invocation](https://graypaper.fluffylabs.dev/#/911af30/2c5b012c5b01) we only ever call the Argument Invocation with **x = (∅, \\[\\])**\nthis then passes on through ΨM and ΨH and eventually one of the Omegas in [B.8](https://graypaper.fluffylabs.dev/#/911af30/322101322101) is getting called with this pair as an argument\n\nso if we only ever pass \"empty\" pair, how will the internal Omegas ever operate on non empty argument?\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$f1bGJfRFIdgU16WChAdxpoVxXbhXz2iUdQ-EdZw7pbw\n\n---\nHello, guess i am missing something.\nin [Refine Invocation](https://graypaper.fluffylabs.dev/#/911af30/2c5b012c5b01) we only ever call the Argument Invocation with x = (∅, [])\nthis then passes on through ΨM and ΨH and eventually one of the Omegas in [B.8](https://graypaper.fluffylabs.dev/#/911af30/322101322101) is getting called with this pair as an argument\n\nso if we only ever pass \"empty\" pair, how will the internal Omegas ever operate on non empty argument?\n",
+      "date": 1733396751184,
+      "author": "@luke_fishman:matrix.org, @luke_fishman:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/2c5b012c5b01)",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 44,
+        "index": 347
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$LosTLneyAYiYR0WRDpFqUjnh-BAwAYbAZQ-CvJTXzfQ\n\n---\n * We use the paged proof hashed segments for building segment justification.\n\nThe segment root is built with a constancy preprocessor that prepends \"$leaf\" to the data.\n\nShouldn't we also prepend \"$leaf\" here?\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1a18011a1f01\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Q8UWy1Lq0ir4YiBOTPxmKKwSW0Mw4X46ouUpAdh-vPs\n\n---\nWhen we are building paged proof, we will use the paged proof 64 hashed segments data for building segment justification.\n\nThe export root is built with a constancy preprocessor that prepends \"$leaf\" to the data.\n\nShouldn't we also prepend \"$leaf\" here?\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1a18011a1f01",
+      "date": 1733456286697,
+      "author": "@amritj:matrix.org, @amritj:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/1a18011a1f01",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 280
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 287
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$T-P0S-AaKCpb161GHhcldweFPEs4kcDDbrQzLLBllFo\n\n---\n> <@amritj:matrix.org> We use the paged proof hashed segments for building segment justification.\n> \n> The segment root is built with a constancy preprocessor that prepends \"$leaf\" to the data.\n> \n> Shouldn't we also prepend \"$leaf\" here?\n> \n> https://graypaper.fluffylabs.dev/#/911af30/1a18011a1f01\n\nYes in the present system it would be needed. I might alter things so that for the pages proofs tree we don’t bother with the leaf/node prefixes at all since they’re redundant here. ",
+      "date": 1733472349347,
+      "author": "@gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/1a18011a1f01\n\nYes",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 280
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$zyZZhfKQfFUh3L5tX7th3sYbgomRK77QRHLFut0UCqI\n\n---\n * One more suggestion, I think we should also check the export count in the work package items to be equal to the length of the actually exported segments.\n\nOtherwise, work item can export more segments than Wm (2\\*\\*11) and I think may even overwrite index of the export segment of next work item\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$q7dG-92mT-9SKiEt3fwqKwuDZYdsGx9O107YOMf_odc\n\n---\n * One more suggestion, I think we should also check the export count in the work package items to be equal to the length of the actually exported segments.\n\nOtherwise, work item can export more segments than Wm (2\\*\\*11) and I think may even overwrite index of the export segment of next work item as node might calculate the next work item export start using the export\\_count variable\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$44qeyha6EArT07UjYH97UnHpPmqNKK51J3QaJWBVC_o\n\n---\nOne more suggestions, I think we should also check the export count in the work package items to be equal to the length of the actually exported segments.\n\nOtherwise, work item can export more segments than Wm (2**11) and I think may even overwrite index of the export segment of next work item as node might calculate the next work item export start using the export_count variable\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02",
+      "date": 1733499354567,
+      "author": "@amritj:matrix.org, @amritj:matrix.org, @amritj:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 524
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 524
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$-w4-V-6N3vdBt-1_Ld76vQ_OkGuTkki3UzwRDNrEamE\n\n---\n * Also, I can find any such constant named Wx, I think it should be Wm\n\nhttps://graypaper.fluffylabs.dev/#/911af30/33ae0033ae00\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$AmRvy5MmgolTCZqtODhaVVYWfeJaEXFJVYfXvGiql14\n\n---\nAlso, there is no such constant like Wx here, I think it should be Wm\n\nhttps://graypaper.fluffylabs.dev/#/911af30/33ae0033ae00",
+      "date": 1733497604023,
+      "author": "@amritj:matrix.org, @amritj:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/33ae0033ae00",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 51,
+        "index": 174
+      },
+      "selectionEnd": {
+        "pageNumber": 51,
+        "index": 174
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$sDdh4cmBZ27xCI-5TpXRMftXk7aOOS4i7yxUQjXeIfo\n\n---\n> <@amritj:matrix.org> One more suggestion, I think we should also check the export count in the work package items to be equal to the length of the actually exported segments.\n> \n> Otherwise, work item can export more segments than Wm (2\\*\\*11) and I think may even overwrite index of the export segment of next work item\n> \n> https://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02\n\nIt's technically impossible to validly export more items than W_M already due to the condition in the `export` host-call (the only way to validly append an export)",
+      "date": 1733502813128,
+      "author": "@gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/1a0c021a0c02\n\nIt's",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 524
+      },
+      "selectionEnd": {
+        "pageNumber": 0,
+        "index": 0
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ZXZQmGn1ibjEU_FinhZqgTDhueGsPpB-Sp1p8TXwJog\n\n---\nBut in any case, there's a required limitation placed on work-packages here: https://graypaper.fluffylabs.dev/#/911af30/19f500190501",
+      "date": 1733502908685,
+      "author": "@gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/19f500190501",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 25,
+        "index": 245
+      },
+      "selectionEnd": {
+        "pageNumber": 25,
+        "index": 261
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$XHj2Rb4I_iLCM6h8vJmZ0qi0xK0cGq4ldNgRMchvfAw\n\n---\n * Question:\n\nIn auditing, we consider the report audited if the report have no negative judgement and there exists some tranche where all validators required to audit have positive judgement about the report.\n\nIn case some validator announced a audit but failed to deliver the judgement, and new audits are announced to cover that.\n\nSo, the new tranche A_n will be = old tranche auditors + new auditors just announced - auditors failed to deliver judgement ?\n\nhttps://graypaper.fluffylabs.dev/#/911af30/1eab001eae00",
+      "date": 1733569129048,
+      "author": "@amritj:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/1eab001eae00",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 30,
+        "index": 171
+      },
+      "selectionEnd": {
+        "pageNumber": 30,
+        "index": 174
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$95gqBKgPLHIAYohKN2IEofxpODQS92ten8CSBF40Q0c\n\n---\nThis is described in the paragraph here: https://graypaper.fluffylabs.dev/#/911af30/1e18001e2000",
+      "date": 1733572865701,
+      "author": "@gav:polkadot.io",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/1e18001e2000",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 30,
+        "index": 24
+      },
+      "selectionEnd": {
+        "pageNumber": 30,
+        "index": 32
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$hLpBBbtDDAa2JJOoD4JwK5EvaaQP0RvH-Vp-xalD9hg\n\n---\n * The work report's authorizer\\_hash is removed from the authorizer pool when it is placed on the core. https://graypaper.fluffylabs.dev/#/911af30/10b50010ba00\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$z0dL-vbFHofG6w9cLL6IuIOD6lqP9j8jWV3_5hrlRDM\n\n---\n * The work report's authorizer\\_hash is removed from the authoriser pool when it is placed on the core. https://graypaper.fluffylabs.dev/#/911af30/10b50010ba00\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$MMU_rQID9FD8gUhHEX6WrqKFVDralLUZ3Obs6ayluGg\n\n---\n * I think the work report's authorizer\\_hash is removed from the authoriser pool when it is placed on the core. https://graypaper.fluffylabs.dev/#/911af30/10b50010ba00",
+      "date": 1733955444535,
+      "author": "@vinsystems:matrix.org, @vinsystems:matrix.org, @vinsystems:matrix.org",
+      "link": "https://graypaper.fluffylabs.dev/#/911af30/10b50010ba00",
+      "version": "911af30f94dad0c7784d60d568d9c032517821ee",
+      "selectionStart": {
+        "pageNumber": 16,
+        "index": 181
+      },
+      "selectionEnd": {
+        "pageNumber": 16,
+        "index": 186
+      },
+      "labels": [
+        "element",
+        "v0.5.x"
+      ]
+    }
+  ]
 }
