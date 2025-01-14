@@ -1,0 +1,170 @@
+{
+	"version": 3,
+	"notes": [
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$eof0N2GjQmE649L9d8SNpuyvL4pYcLsKUtxJ3yIDqFg\n\n---\nIn 150 (https://graypaper.fluffylabs.dev/#/364735a/159a00159e00) for every element `q` of `theta`, we are getting keys of `q`, but `theta` has this type: List[List[Tuple[WorkReport, Set[Hash]]]\nSo elements of `theta` are Lists, and I don't understand the use of `K` on lists (It's possible that I'm misunderstanding the formula)",
+			"date": 1730633048401,
+			"author": "@dakkk:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/159a00159e00)",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 21, "index": 154 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$1-okfKzVzdKK3gIc1HjjxMOM6zdHEXNWX0zgB7fSSio\n\n---\n> <@dvladco:matrix.org> Hello, I would like to confirm if the gas calculation [here](https://graypaper.fluffylabs.dev/#/364735a/2f38012f3b01) is correct, it seems to me that `ω8` contains the memory address for memo\n\n* Copy-paste error. g should be 10\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$va3VmyhGjQRwmrOp8BnjKImB6KdzdRJKjF6ygxtcAis\n\n---\n> <@dvladco:matrix.org> Hello, I would like to confirm if the gas calculation [here](https://graypaper.fluffylabs.dev/#/364735a/2f38012f3b01) is correct, it seems to me that `ω8` contains the memory address for memo\n\nCopy-paste error. g should be 1\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$wcH1VPNuEPCz51S_f56yFSGh84mAtglqv9zl5Z3DcC0\n\n---\nHello, I would like to confirm if the gas calculation [here](https://graypaper.fluffylabs.dev/#/364735a/2f38012f3b01) is correct, it seems to me that `ω8` contains the memory address for memo",
+			"date": 1730717805065,
+			"author": "@dvladco:matrix.org, @gav:polkadot.io, @gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/2f38012f3b01)",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 47, "index": 312 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$V_lgUfeQQTdv6BfQQmB1Ng60iHNs5-AHsH3_gu6zduM\n\n---\n * https://graypaper.fluffylabs.dev/#/364735a/0f59020f6e02\n\nIn phi, is correct that the size of the inner list is exactly Q? Q is `the maximum number of items in the authorizations queue`, so I expect to be `:Q`\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$pVtBGfPPNLK3XEA428VA-pLY2x4QYBVCQNqHKIAaiDI\n\n---\nhttps://graypaper.fluffylabs.dev/#/364735a/0f59020f6e02\n\nIn phi, is correct that the size of the inner list is exactly Q? Q is the maximum number of element in the authorizer_queue, so I expect to be `:Q`",
+			"date": 1730739073784,
+			"author": "@dakkk:matrix.org, @dakkk:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/0f59020f6e02\n\nIn",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 15, "index": 601 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$5Vm1hiDPUvD-TDey7_1pug7cC3JfJc6HoDCq4n5Fk_s\n\n---\n * here (appendix I):  https://graypaper.fluffylabs.dev/#/364735a/3d6c003d6e00\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$mY_BCEpvjMNvLgwgZSoLQ3VeMIGdGLoNDRgLtEq8S6U\n\n---\nhere: https://graypaper.fluffylabs.dev/#/364735a/3d6c003d6e00",
+			"date": 1730739241443,
+			"author": "@dakkk:matrix.org, @dakkk:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/3d6c003d6e00",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 61, "index": 108 },
+			"selectionEnd": { "pageNumber": 61, "index": 110 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$wlq9zZUhqitpR15ZDDklz64LFC0YVjRHvu7moBsexpU\n\n---\n * Hey, is `d` [here](https://graypaper.fluffylabs.dev/#/364735a/2bb1002bb100) taken from `u` ? I don't see it being explicitly defined anywhere\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$flPUqR8HX4S80Y3AmAs_Hfvuiyug-uv3KAWy6N0usnU\n\n---\nHey, is `d` [here](https://graypaper.fluffylabs.dev/#/364735a/2bb1002bb100) from `u` ? I don't see it being explicitly defined anywhere ",
+			"date": 1730992822097,
+			"author": "@dvladco:matrix.org, @dvladco:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/2bb1002bb100)",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 43, "index": 177 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ygimQYgO5gVWV-dEZk2EaU5U6k3p3tr0eBrC3pYrKIY\n\n---\nHere, R looks like a function but it is multiplying with the inner term (t'/R -1)\n\nhttps://graypaper.fluffylabs.dev/#/364735a/14f40214ff02",
+			"date": 1731594557347,
+			"author": "@amritj:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/14f40214ff02",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 20, "index": 756 },
+			"selectionEnd": { "pageNumber": 20, "index": 767 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$uCmeEHmmXZdNWCK8mMy19ZGT3cDkYHL4qnNeGmUSGwM\n\n---\n> <@cisco:parity.io> The prerequisites of a work report are already a set, so shouldn't [the D function](https://graypaper.fluffylabs.dev/#/364735a/16c70016c900) just do w_x_p U ...?\n\nYes. Will be fixed in next release\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$DrTTYOtfA1KCXgWBSWkKSBpjKXfQTMAGf5X8PRsPjJk\n\n---\nThe prerequisites of a work report are already a set, so shouldn't [the D function](https://graypaper.fluffylabs.dev/#/364735a/16c70016c900) just do w_x_p U ...?",
+			"date": 1731619632565,
+			"author": "@cisco:parity.io, @gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/16c70016c900)",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 22, "index": 199 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$yEm1pXzvvgvEESPOR0G3yhqjeOx_9NN5jhnrVobaE4M\n\n---\n> <@prematurata:matrix.org> I have a question about acc history. According to https://graypaper.fluffylabs.dev/#/364735a/162000162800 , its a `E long sequence of Hash sets` \n> \n> When merkleizing https://graypaper.fluffylabs.dev/#/364735a/34fa0234fc02 we're asked to serialize it but C.1.7 https://graypaper.fluffylabs.dev/#/364735a/33d70033d700 defines set serialization which if intended to be used for ξ encoding, then it means we won't be able to decode it (due to not containing length discriminator). Right now we don't really need to decode it but not sure this is intended\n\nthis is an oversight. It will be fixed in 0.5.0 (state encoding of curly E will have a length prefixes)\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$GL85_7zd1iu3goxFdnwym6NLUfZx63xTdUXhysfgQOI\n\n---\n> <@prematurata:matrix.org> I have a question about acc history. According to https://graypaper.fluffylabs.dev/#/364735a/162000162800 , its a `E long sequence of Hash sets` \n> \n> When merkleizing https://graypaper.fluffylabs.dev/#/364735a/34fa0234fc02 we're asked to serialize it but C.1.7 https://graypaper.fluffylabs.dev/#/364735a/33d70033d700 defines set serialization which if intended to be used for ξ encoding, then it means we won't be able to decode it (due to not containing length discriminator). Right now we don't really need to decode it but not sure this is intended\n\nYour assumptions seems correct, but the state merklization is not intendeed to be \"reversible\"\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$t4o_TTB2bKLau2BbEvjiiwLRSf7NZwkNYx6sq7M-ukQ\n\n---\nI have a question about acc history. According to https://graypaper.fluffylabs.dev/#/364735a/162000162800 , its a `E long sequence of Hash sets` \n\nWhen merkleizing https://graypaper.fluffylabs.dev/#/364735a/34fa0234fc02 we're asked to serialize it but C.1.7 https://graypaper.fluffylabs.dev/#/364735a/33d70033d700 defines set serialization which if intended to be used for ξ encoding, then it means we won't be able to decode it (due to not containing length discriminator). Right now we don't really need to decode it but not sure this is intended",
+			"date": 1731665133361,
+			"author": "@prematurata:matrix.org, @dakkk:matrix.org, @gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/162000162800",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 22, "index": 32 },
+			"selectionEnd": { "pageNumber": 22, "index": 40 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$rWT7qKxY13BqCB-elTJ93OUUQLhSmfx6jyZOESVFVHg\n\n---\nIs there any particular reason why `lower` and `higher` bits of the two U64s are in a different order in registers than in case of `new` and `transfer`? My OCD is killing me:\nhttps://graypaper.fluffylabs.dev/#/364735a/2e0d032e0d03",
+			"date": 1731666310833,
+			"author": "@tomusdrw:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/2e0d032e0d03",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 46, "index": 781 },
+			"selectionEnd": { "pageNumber": 46, "index": 781 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$4yej_tvX7qNWbvtsYYo3MHA3PTjLULKJYa85MnM6A9s\n\n---\n> <@tomusdrw:matrix.org> Is there any particular reason why `lower` and `higher` bits of the two U64s are in a different order in registers than in case of `new` and `transfer`? My OCD is killing me:\n> https://graypaper.fluffylabs.dev/#/364735a/2e0d032e0d03\n\nIt's not an issue in 0.5.0",
+			"date": 1731671877724,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/2e0d032e0d03\n\nIt's",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 46, "index": 781 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$d5ufrCFVyPus8JALCp1S2W5VWDgRhT4R8TLe26WSrEY\n\n---\nMight be a dumb question, but shouldn't creating a service with code larger than `W_C` be disallowed? AFAIU it will not run yielding `BIG`, but why allow `new` host call to succeed at all? https://graypaper.fluffylabs.dev/#/364735a/2e80022e8002",
+			"date": 1731700585034,
+			"author": "@tomusdrw:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/2e80022e8002",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 46, "index": 640 },
+			"selectionEnd": { "pageNumber": 46, "index": 640 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$gLFHh8TVlaM0YDKEEDVA5mOv-mYWtk3vul3MyhH0UeU\n\n---\n * Hello guys, I have a question about the pageproof, according to the definition in the GP, constructing a Merkle Tree appears to follow the diagram provided. In this context, B(1,2) represents the branch of leaf 1 and leaf 2, and its calculation method is described as H($node ⌢ N(v\\_{...|v|/2}, H) ⌢ N(v\\_{|v|/2...}, H)).https://graypaper.fluffylabs.dev/#/364735a/354e0135ac01",
+			"date": 1731842233254,
+			"author": "@stanleyli:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/354e0135ac01",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 53, "index": 334 },
+			"selectionEnd": { "pageNumber": 53, "index": 428 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$4zSGTFFydIq3dZMj44ud18LKt_IPvWQCpJvfY_gHhmA\n\n---\nMeanwhile, when calculating the Trace path, the method outlined in the GP is N(P(v, i), H).https://graypaper.fluffylabs.dev/#/364735a/364500360301",
+			"date": 1731842290413,
+			"author": "@stanleyli:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/364500360301",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 54, "index": 69 },
+			"selectionEnd": { "pageNumber": 54, "index": 259 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$1lGqZwI7hAxnJm79qRcW6AbxCoba_fdJhGeyVN8F-NU\n\n---\nhttps://graypaper.fluffylabs.dev/#/364735a/2cfc012cfc01\n\nHere we are fetching 32 bytes preimage hash from memory and then hashing it again, is it right?",
+			"date": 1731920260854,
+			"author": "@amritj:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/2cfc012cfc01\n\nHere",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 44, "index": 508 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Aaupm21Vr0XDmQfQO17gTwLbcs16gAVVAs8F_X10ABY\n\n---\n> <@amritj:matrix.org> https://graypaper.fluffylabs.dev/#/364735a/2cfc012cfc01\n> \n> Here we are fetching 32 bytes preimage hash from memory and then hashing it again, is it right?\n\nCorrect.",
+			"date": 1731924268720,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/364735a/2cfc012cfc01\n>",
+			"version": "364735a56c5095287cd854597fadd32c20ece8a7",
+			"selectionStart": { "pageNumber": 44, "index": 508 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		}
+	]
+}

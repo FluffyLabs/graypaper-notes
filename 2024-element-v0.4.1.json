@@ -1,0 +1,71 @@
+{
+	"version": 3,
+	"notes": [
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$1wmrXo5RzSeEGbVpy3W88d4kqsP4_8bnISgU0KzqSTg\n\n---\n> I need clarification on how is pageProof being used in CE139/CE140? Our understanding is that page proof is quite large as it's encoded with Justification & ↕si⋅⋅⋅+64 in https://graypaper.fluffylabs.dev/#/c71229b/1a15001a1500. So it's probably possible to recover exported segments from pageproof alone;\n\nThe proof pages contain Merkle proofs from the segment root to the exported segments. Each proof page/segment contains proofs for 64 exported segments. You certainly can't reconstruct the exported segments themselves from these proof pages. CE139/140 is intended to be used to fetch proof page shards as well as exported segment shards. You need to explicitly request proof page shards by passing the appropriate segment indices.",
+			"date": 1728993068386,
+			"author": "@dave:parity.io",
+			"link": "https://graypaper.fluffylabs.dev/#/c71229b/1a15001a1500.",
+			"version": "c71229bbed0fd9156ea7f38d6cb3398df0e80f38",
+			"selectionStart": { "pageNumber": 26, "index": 21 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Nxt8Rz8gcQmljuqJ6dM4cbbOYbnZxnZRKHN2gWmwAps\n\n---\nIn the 'new' hostcall (https://graypaper.fluffylabs.dev/#/c71229b/2e9a022ee302):\n- in case of OOB | CASH, we are assigning 2 elements to a tuple of 3 elements\n- we are referencing X_T, which I'm unable to find defined in any other part of the paper ",
+			"date": 1729063057714,
+			"author": "@dakkk:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/c71229b/2e9a022ee302):\n-",
+			"version": "c71229bbed0fd9156ea7f38d6cb3398df0e80f38",
+			"selectionStart": { "pageNumber": 46, "index": 666 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$JOBZo9QKQ10uOY5uRnn5heYdE1ApPtX6qUF6L2bjMks\n\n---\n> <@dakkk:matrix.org> In the 'new' hostcall (https://graypaper.fluffylabs.dev/#/c71229b/2e9a022ee302):\n> - in case of OOB | CASH, we are assigning 2 elements to a tuple of 3 elements\n> - we are referencing X_T, which I'm unable to find defined in any other part of the paper\n\nWill be fixed in 0.4.3",
+			"date": 1729077317181,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/c71229b/2e9a022ee302):\n>",
+			"version": "c71229bbed0fd9156ea7f38d6cb3398df0e80f38",
+			"selectionStart": { "pageNumber": 46, "index": 666 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$XuKS4Lcwu656djeZ6-V8HZ0Ug-hVQ7yGvF-rUZVj1RE\n\n---\nShouldn't this `G` function in the definition of the `Accumulate` invocation take the status from the host call as well in the first argument?\n\nhttps://graypaper.fluffylabs.dev/#/c71229b/2b6f022b6f02\n\nDefinition of the host call: https://graypaper.fluffylabs.dev/#/364735a/28a80228a802",
+			"date": 1731556739402,
+			"author": "@cisco:parity.io",
+			"link": "https://graypaper.fluffylabs.dev/#/c71229b/2b6f022b6f02\n\nDefinition",
+			"version": "c71229bbed0fd9156ea7f38d6cb3398df0e80f38",
+			"selectionStart": { "pageNumber": 43, "index": 623 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$9aFii1vrpIUvy092wQbPcTMbCwUR3GzFiVrDy7KGSaU\n\n---\n> <@cisco:parity.io> Shouldn't this `G` function in the definition of the `Accumulate` invocation take the status from the host call as well in the first argument?\n> \n> https://graypaper.fluffylabs.dev/#/c71229b/2b6f022b6f02\n> \n> Definition of the host call: https://graypaper.fluffylabs.dev/#/364735a/28a80228a802\n\nYes the triangle sign is in fact missing from a few places. Will be corrected in next release.",
+			"date": 1731586603635,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/c71229b/2b6f022b6f02\n>",
+			"version": "c71229bbed0fd9156ea7f38d6cb3398df0e80f38",
+			"selectionStart": { "pageNumber": 43, "index": 623 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$5fb4aISpNjPvfEWPjittjTAYP2zvE10Jxpyr7k6Xz3M\n\n---\nhttps://graypaper.fluffylabs.dev/#/c71229b/3d6b003d6d00",
+			"date": 1731597116120,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/c71229b/3d6b003d6d00",
+			"version": "c71229bbed0fd9156ea7f38d6cb3398df0e80f38",
+			"selectionStart": { "pageNumber": 61, "index": 107 },
+			"selectionEnd": { "pageNumber": 61, "index": 109 },
+			"labels": ["element"]
+		}
+	]
+}

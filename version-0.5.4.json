@@ -1,149 +1,133 @@
 {
-  "version": 3,
-  "notes": [
-    {
-      "noteVersion": 3,
-      "content": "Summary of Changes in Version 0.5.4:\n\n- Focused on terminology refinement and expanded technical explanations.\n- Added new instructions for the Polka Virtual Machine (PVM).\n- Expanded future work considerations with specific technical goals.\n- Clarified scalability strategies in contrast to Ethereum and Polkadot’s approaches.\n\nDetails: https://github.com/gavofyork/graypaper/releases/tag/v0.5.4",
-      "date": 1736455750763,
-      "author": "",
-      "selectionStart": {
-        "pageNumber": 1,
-        "index": 24
-      },
-      "selectionEnd": {
-        "pageNumber": 1,
-        "index": 24
-      },
-      "version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
-      "labels": [
-        "Changes in 0.5.4"
-      ]
-    },
-    {
-      "noteVersion": 3,
-      "content": "New Instructions Added:\n- rot_l_64, rot_l_32, rot_r_64, rot_r_32 for rotation operations.\n- and_inv, or_inv, xnor for bitwise logic inversions.\n- max, min and unsigned variants for numeric comparisons",
-      "date": 1736455650855,
-      "author": "",
-      "selectionStart": {
-        "pageNumber": 35,
-        "index": 227
-      },
-      "selectionEnd": {
-        "pageNumber": 35,
-        "index": 227
-      },
-      "version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
-      "labels": [
-        "Changes in 0.5.4"
-      ]
-    },
-    {
-      "noteVersion": 3,
-      "content": "Expanded Scope: The points on further work were expanded with detailed considerations including:\n- Enabling synchronous calls between services during the accumulate phase.\n- Restrictions on transfer functions to improve parallelism.\n- Additional capacity reservation mechanisms for deferred transfers.\n- Enhanced Merklization for Work Packages to prevent full package downloading for verification",
-      "date": 1736455612218,
-      "author": "",
-      "selectionStart": {
-        "pageNumber": 33,
-        "index": 186
-      },
-      "selectionEnd": {
-        "pageNumber": 33,
-        "index": 186
-      },
-      "version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
-      "labels": [
-        "Changes in 0.5.4"
-      ]
-    },
-    {
-      "noteVersion": 3,
-      "content": "- Updated Descriptions: More focus was placed on the differences between Ethereum’s roll-up-centric scaling and JAM’s approach to native scalability.\n- Performance Clarification: A new mention was added about Ethereum’s data availability plans via Dank-sharding",
-      "date": 1736455572642,
-      "author": "",
-      "selectionStart": {
-        "pageNumber": 3,
-        "index": 41
-      },
-      "selectionEnd": {
-        "pageNumber": 3,
-        "index": 41
-      },
-      "version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
-      "labels": [
-        "Changes in 0.5.4"
-      ]
-    },
-    {
-      "noteVersion": 3,
-      "content": "- Clarifications Added: The description of Polkadot’s message-passing system (XCMP) was expanded to emphasize its asynchronous nature and limited state synchrony.\n- New Mention: The concept of “CoreChains” as a compatible service with JAM was added.",
-      "date": 1736455548926,
-      "author": "",
-      "selectionStart": {
-        "pageNumber": 2,
-        "index": 142
-      },
-      "selectionEnd": {
-        "pageNumber": 2,
-        "index": 142
-      },
-      "version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
-      "labels": [
-        "Changes in 0.5.4"
-      ]
-    },
-    {
-      "noteVersion": 3,
-      "content": "Expanded Explanation: The explanation of “size-coherency antagonism” has been slightly expanded with a clearer breakdown of the three consequences of increasing state size:\n\t1.\tIncreased space occupation by state data.\n\t2.\tGreater distances between state components.\n\t3.\tDelayed causal resolution due to data propagation.",
-      "date": 1736455498180,
-      "author": "",
-      "selectionStart": {
-        "pageNumber": 2,
-        "index": 42
-      },
-      "selectionEnd": {
-        "pageNumber": 2,
-        "index": 42
-      },
-      "version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
-      "labels": [
-        "Changes in 0.5.4"
-      ]
-    },
-    {
-      "noteVersion": 3,
-      "content": "No substantial changes observed between versions 0.5.3 and 0.5.4 in the core points about resilience, performance, coherency, and accessibility.",
-      "date": 1736455480679,
-      "author": "",
-      "selectionStart": {
-        "pageNumber": 1,
-        "index": 70
-      },
-      "selectionEnd": {
-        "pageNumber": 1,
-        "index": 70
-      },
-      "version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
-      "labels": [
-        "Changes in 0.5.4"
-      ]
-    },
-    {
-      "noteVersion": 3,
-      "content": "- Minor Clarifications: Language has been refined to emphasize the “coherent duality” of in-core and on-chain mechanisms.\n- Terminology Refinement: The phrase “mostly-coherent trustless supercomputer” is used more consistently to describe the JAM protocol.",
-      "date": 1736455461555,
-      "author": "",
-      "selectionStart": {
-        "pageNumber": 1,
-        "index": 54
-      },
-      "selectionEnd": {
-        "pageNumber": 1,
-        "index": 55
-      },
-      "version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
-      "labels": [
-        "Changes in 0.5.4"
-      ]
-    }
-  ]
+	"version": 3,
+	"notes": [
+		{
+			"noteVersion": 3,
+			"content": "Summary of Changes in Version 0.5.4:\n\n- Focused on terminology refinement and expanded technical explanations.\n- Added new instructions for the Polka Virtual Machine (PVM).\n- Expanded future work considerations with specific technical goals.\n- Clarified scalability strategies in contrast to Ethereum and Polkadot’s approaches.\n\nDetails: https://github.com/gavofyork/graypaper/releases/tag/v0.5.4",
+			"date": 1736455750763,
+			"author": "",
+			"selectionStart": {
+				"pageNumber": 1,
+				"index": 24
+			},
+			"selectionEnd": {
+				"pageNumber": 1,
+				"index": 24
+			},
+			"version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
+			"labels": ["Changes in 0.5.4"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "New Instructions Added:\n- rot_l_64, rot_l_32, rot_r_64, rot_r_32 for rotation operations.\n- and_inv, or_inv, xnor for bitwise logic inversions.\n- max, min and unsigned variants for numeric comparisons",
+			"date": 1736455650855,
+			"author": "",
+			"selectionStart": {
+				"pageNumber": 35,
+				"index": 227
+			},
+			"selectionEnd": {
+				"pageNumber": 35,
+				"index": 227
+			},
+			"version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
+			"labels": ["Changes in 0.5.4"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "Expanded Scope: The points on further work were expanded with detailed considerations including:\n- Enabling synchronous calls between services during the accumulate phase.\n- Restrictions on transfer functions to improve parallelism.\n- Additional capacity reservation mechanisms for deferred transfers.\n- Enhanced Merklization for Work Packages to prevent full package downloading for verification",
+			"date": 1736455612218,
+			"author": "",
+			"selectionStart": {
+				"pageNumber": 33,
+				"index": 186
+			},
+			"selectionEnd": {
+				"pageNumber": 33,
+				"index": 186
+			},
+			"version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
+			"labels": ["Changes in 0.5.4"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "- Updated Descriptions: More focus was placed on the differences between Ethereum’s roll-up-centric scaling and JAM’s approach to native scalability.\n- Performance Clarification: A new mention was added about Ethereum’s data availability plans via Dank-sharding",
+			"date": 1736455572642,
+			"author": "",
+			"selectionStart": {
+				"pageNumber": 3,
+				"index": 41
+			},
+			"selectionEnd": {
+				"pageNumber": 3,
+				"index": 41
+			},
+			"version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
+			"labels": ["Changes in 0.5.4"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "- Clarifications Added: The description of Polkadot’s message-passing system (XCMP) was expanded to emphasize its asynchronous nature and limited state synchrony.\n- New Mention: The concept of “CoreChains” as a compatible service with JAM was added.",
+			"date": 1736455548926,
+			"author": "",
+			"selectionStart": {
+				"pageNumber": 2,
+				"index": 142
+			},
+			"selectionEnd": {
+				"pageNumber": 2,
+				"index": 142
+			},
+			"version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
+			"labels": ["Changes in 0.5.4"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "Expanded Explanation: The explanation of “size-coherency antagonism” has been slightly expanded with a clearer breakdown of the three consequences of increasing state size:\n\t1.\tIncreased space occupation by state data.\n\t2.\tGreater distances between state components.\n\t3.\tDelayed causal resolution due to data propagation.",
+			"date": 1736455498180,
+			"author": "",
+			"selectionStart": {
+				"pageNumber": 2,
+				"index": 42
+			},
+			"selectionEnd": {
+				"pageNumber": 2,
+				"index": 42
+			},
+			"version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
+			"labels": ["Changes in 0.5.4"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "No substantial changes observed between versions 0.5.3 and 0.5.4 in the core points about resilience, performance, coherency, and accessibility.",
+			"date": 1736455480679,
+			"author": "",
+			"selectionStart": {
+				"pageNumber": 1,
+				"index": 70
+			},
+			"selectionEnd": {
+				"pageNumber": 1,
+				"index": 70
+			},
+			"version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
+			"labels": ["Changes in 0.5.4"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "- Minor Clarifications: Language has been refined to emphasize the “coherent duality” of in-core and on-chain mechanisms.\n- Terminology Refinement: The phrase “mostly-coherent trustless supercomputer” is used more consistently to describe the JAM protocol.",
+			"date": 1736455461555,
+			"author": "",
+			"selectionStart": {
+				"pageNumber": 1,
+				"index": 54
+			},
+			"selectionEnd": {
+				"pageNumber": 1,
+				"index": 55
+			},
+			"version": "579bd12e792667c968ab64d07f56c6b7da72b4e2",
+			"labels": ["Changes in 0.5.4"]
+		}
+	]
 }

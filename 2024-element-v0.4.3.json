@@ -1,0 +1,258 @@
+{
+	"version": 3,
+	"notes": [
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$uIXFINEAf0WBRqxNImjdhsJmy_WR6I5i_J4bcUqXxFg\n\n---\nin export hostcall, constant W_X is not defined: https://graypaper.fluffylabs.dev/#/439ca37/31ab0031ae00",
+			"date": 1729581759829,
+			"author": "@dakkk:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/31ab0031ae00",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 49, "index": 171 },
+			"selectionEnd": { "pageNumber": 49, "index": 174 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$-saFidYRXn0EHwtwqBHV8gMaDGOJZxubmURAO_XVJtQ\n\n---\nIn state merklization of validator statistic (pi) (https://graypaper.fluffylabs.dev/#/439ca37/345702345802), I don't understand why we are using E_4 for serialization",
+			"date": 1729609990549,
+			"author": "@dakkk:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/345702345802),",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 52, "index": 599 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$iLOHWG8Tq6E9lkT43j4uh-GqsQ0MLzSSj4NQyz7EdDw\n\n---\nhttps://graypaper.fluffylabs.dev/#/439ca37/121503121503\nIs this supposed to be `ρ[c]_w`?",
+			"date": 1729674460264,
+			"author": "@0xjunha:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/121503121503\nIs",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 18, "index": 789 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$iuRjnBkCiXBaUkUGzCi4LcCS1xiVuNBxrUnIKkW4lbY\n\n---\n> <@0xjunha:matrix.org> https://graypaper.fluffylabs.dev/#/439ca37/121503121503\n> Is this supposed to be `ρ[c]_w`?\n\nYes. Will be fixed in next release. ",
+			"date": 1729674624183,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/121503121503\n>",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 18, "index": 789 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$kqiQtlExxCIVxfrU717mwbNzlet0aK4DFJqvG_Q-IOY\n\n---\nhttps://graypaper.fluffylabs.dev/#/439ca37/348a02349202 about here",
+			"date": 1729755588569,
+			"author": "@prematurata:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/348a02349202",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 52, "index": 650 },
+			"selectionEnd": { "pageNumber": 52, "index": 658 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$YvCwBtMZgrEkmewWcECgxp0NXw_uhEk4UrLf3PcTo1c\n\n---\n * In formula 268, psi\\_i definition:\n\nhttps://graypaper.fluffylabs.dev/#/439ca37/29f80229fc02\n\n↦ r where (g, r, ∅) = ΨM (pc, 0, GI , E(p, c), F, ∅)\n\nWhat is pc? I believe there is a typo in the argument, since work packages do not have a field 'c'\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$VnrI2_EqbSRh9UsyTwW5UJXiUvV6_jYzfFUbbXhpgek\n\n---\nIn formula 268, psi_i definition:\n\nhttps://graypaper.fluffylabs.dev/#/439ca37/29f80229fc02\n\n↦ r where (g, r, ∅) = ΨM (pc, 0, GI , E(p, c), F, ∅)\n\nWhat is pc? I believe there is a typo in the correct field, since work packages do not have a field 'c'",
+			"date": 1729804451210,
+			"author": "@danicuki:matrix.org, @danicuki:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/29f80229fc02\n\n↦",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 41, "index": 760 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$6h1K8LI-cx7B8qgoHNkSioGXW7NiBQoDPOP71glMbvE\n\n---\n> <@danicuki:matrix.org> In formula 268, psi\\_i definition:\n> \n> https://graypaper.fluffylabs.dev/#/439ca37/29f80229fc02\n> \n> ↦ r where (g, r, ∅) = ΨM (pc, 0, GI , E(p, c), F, ∅)\n> \n> What is pc? I believe there is a typo in the argument, since work packages do not have a field 'c'\n\nBold c is defined as the preimage of regular c. ",
+			"date": 1729847435786,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/29f80229fc02\n>",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 41, "index": 760 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$SndgjtLhK88Q_XNi3HR-eAG7orUjHd4SkQqSVb-2Pko\n\n---\nWhere do I get the value of GI from in psi_I? Is it a constant? Or how should I calculate it? \nhttps://graypaper.fluffylabs.dev/#/439ca37/29f80229fd02",
+			"date": 1729867335040,
+			"author": "@danicuki:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/29f80229fd02",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 41, "index": 760 },
+			"selectionEnd": { "pageNumber": 41, "index": 765 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$kGZUr0yJqWsRjJAaRSC47FSHe3zDe4ENb1wvdNukwD8\n\n---\n * What does \\[WHAT, ω8, . . . \\] mean here? What do I put on ...? I assume to pass through ω2, ω3, ... ? \nhttps://graypaper.fluffylabs.dev/#/439ca37/2a60002a6000",
+			"date": 1729869614561,
+			"author": "@danicuki:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/2a60002a6000",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 42, "index": 96 },
+			"selectionEnd": { "pageNumber": 42, "index": 96 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$2gd6mn5C981DoBAKpqUR70WMuZi9Jks2hm0ymTt9CWE\n\n---\n> <@danicuki:matrix.org> What does \\[WHAT, ω8, . . . \\] mean here? What do I put on ...? I assume to pass through ω2, ω3, ... ? \n> https://graypaper.fluffylabs.dev/#/439ca37/2a60002a6000\n\nThat's how I understand it as well. You assign ω0=WHAT, ω1 = ω8, and the rest stays the same. The same notation is used later as parameters pass-through (e.g. Omega_G).",
+			"date": 1729872616542,
+			"author": "@tomusdrw:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/2a60002a6000\n\nThat's",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 42, "index": 96 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$V9WU2h2dpNynw5DYhwbZzW6rY0aW_kgI0TQMEKDvMFo\n\n---\n> <@danicuki:matrix.org> Where do I get the value of GI from in psi_I? Is it a constant? Or how should I calculate it? \n> https://graypaper.fluffylabs.dev/#/439ca37/29f80229fd02\n\nI'll put some values in.",
+			"date": 1729940809838,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/29f80229fd02\n\nI'll",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 41, "index": 760 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$W9KlvXdQCqDS6-5IOAW4j9_K8y4BN3IUAG_vw_OGDgY\n\n---\n> <@danicuki:matrix.org> What does \\[WHAT, ω8, . . . \\] mean here? What do I put on ...? I assume to pass through ω2, ω3, ... ? \n> https://graypaper.fluffylabs.dev/#/439ca37/2a60002a6000\n\nPVM Invocations: Correct fallback condition",
+			"date": 1729942261734,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/2a60002a6000\n\nPVM",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 42, "index": 96 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$ZJAMjenepoT-YpsUG9O-X4cS6s16ky9XmDd4eA4-1z8\n\n---\nI did not understand yet how do we have access to d and s (bold) in these formulas:\n\nX(w ∈ I) ≡ [d ∣ (H(d),∣d∣) −< wx]\nS(w ∈ I) ≡ [s[n] ∣ M(s) = L(r),(r,n) <− wi]\nJ ( w ∈ I ) ≡ [ ↕ J ( s , n ) ∣ M ( s ) = L ( r ) , ( r , n ) <− w i ]\n\nhttps://graypaper.fluffylabs.dev/#/439ca37/1a98011ad401\n\nAnyone has a clue?",
+			"date": 1729967176437,
+			"author": "@danicuki:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/1a98011ad401\n\nAnyone",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 26, "index": 408 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$u_EZvDXVvfflPGxmY7B5vlk11C8L3lvVll0izQwauwg\n\n---\nI also did not see any usage of P in other parts of the Gray Paper. https://graypaper.fluffylabs.dev/#/439ca37/1a1f001a7400\n\nMaybe I am missing something... Where is P used?",
+			"date": 1729967223204,
+			"author": "@danicuki:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/1a1f001a7400\n\nMaybe",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 26, "index": 31 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$YJAGygWhIS53LRlbcLWUNze7rSG3RTw8R5uGssrBw6c\n\n---\n> <@danicuki:matrix.org> I did not understand yet how do we have access to d and s (bold) in these formulas:\n> \n> X(w ∈ I) ≡ [d ∣ (H(d),∣d∣) −< wx]\n> S(w ∈ I) ≡ [s[n] ∣ M(s) = L(r),(r,n) <− wi]\n> J ( w ∈ I ) ≡ [ ↕ J ( s , n ) ∣ M ( s ) = L ( r ) , ( r , n ) <− w i ]\n> \n> https://graypaper.fluffylabs.dev/#/439ca37/1a98011ad401\n> \n> Anyone has a clue?\n\nExtrinsics are expected to be passed alongside the work package by the block builder.",
+			"date": 1729973915814,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/1a98011ad401\n>",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 26, "index": 408 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$JtKmyt9i1Pvq1y6BOFgq_aGFrycerMZySvV0MKGLyCc\n\n---\nhttps://graypaper.fluffylabs.dev/#/439ca37/2cf9012cfc01 It seems to me that the extra hashing here is redundant, unless the keys in preimage dictionary are double-hashed (which I didn't find info about in section 9)",
+			"date": 1730017869114,
+			"author": "@tomusdrw:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/2cf9012cfc01",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 44, "index": 505 },
+			"selectionEnd": { "pageNumber": 44, "index": 508 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$WswtoOqQkmSwM6CEj4me4BmdgjG3yHQCN_yKz85e5t0\n\n---\n * Something i might be missing. https://graypaper.fluffylabs.dev/#/439ca37/2bb6002bb800 here preimage code ( i guess) is provided to the argument invocation. (d\\[s\\]\\_bold\\_c)\n\nbut the preimage section does not seem to mention any mechanism of storing/fetching preimage for the service. I marked my code with a TODO and now i am fixing all the leftovers.\n\nomega_n (new service host call) does not seem to have access of such preimage but rather codehash is being directly provided in memory.... so I'm a bit lost of where the preimage is being handled\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$uJxYETHaeZnZmBvOvzgArYkqHnCUdahC_HlzGM5sY_s\n\n---\n * Something i might be missing. https://graypaper.fluffylabs.dev/#/439ca37/2bb6002bb800 here preimage code ( i guess) is provided to the argument invocation. (d\\[s\\]\\_bold\\_c)sdfsdf\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$VMJ1zbmlXUqCjlLdYdavmoHoEgbHvWef7JFsZxOJJRU\n\n---\n * Something i might be missing. https://graypaper.fluffylabs.dev/#/439ca37/2bb6002bb800 here preimage code ( i guess) is provided to the argument invocation. (d\\[s\\]\\_bold\\_c)\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$-kHr6UKBEOLV9UgdczwqViT2LESZRmGmQdply_CSkdg\n\n---\nSomething i might be missing. https://graypaper.fluffylabs.dev/#/439ca37/2bb6002bb800 here preimage code ( i guess) is provided to the argument invocation.\n\nd[s]_bold_c)",
+			"date": 1730134040181,
+			"author": "@prematurata:matrix.org, @prematurata:matrix.org, @prematurata:matrix.org, @prematurata:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/2bb6002bb800",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 43, "index": 182 },
+			"selectionEnd": { "pageNumber": 43, "index": 184 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Jc8Tv_PnKi7P3MDDffIqdTDHp0HVOi4ahZISeBezJKE\n\n---\n> <@tomusdrw:matrix.org> https://graypaper.fluffylabs.dev/#/439ca37/2e70002e7100 Should this `d` that's being subscripted here be just `\\mi`? I'm having a hard time to figure out where is the data necessary to build that dictionary coming from. In other context `d` is just a dictionary indexed by service id afaict.\n\nYes. Will be corrected in next revision\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$mZth8PfrI4p_ylKLSbuvSRChojWqw_NvdBVEMaFYsd8\n\n---\n> <@tomusdrw:matrix.org> https://graypaper.fluffylabs.dev/#/439ca37/2e70002e7100 Should this `d` that's being subscripted here be just `\\mi`? I'm having a hard time to figure out where is the data necessary to build that dictionary coming from. In other context `d` is just a dictionary indexed by service id afaict.\n\nits basically `delta`\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$UtjQfXjYpAnIJijOJ36WeR4MS2gk83aWew85UZ0U6b0\n\n---\nhttps://graypaper.fluffylabs.dev/#/439ca37/2e70002e7100 Should this `d` that's being subscripted here be just `\\mi`? I'm having a hard time to figure out where is the data necessary to build that dictionary coming from. In other context `d` is just a dictionary indexed by service id afaict.",
+			"date": 1730157353105,
+			"author": "@tomusdrw:matrix.org, @prematurata:matrix.org, @gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/2e70002e7100",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 46, "index": 112 },
+			"selectionEnd": { "pageNumber": 46, "index": 113 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$gtUANGzcIWLoXWs-4ZL4cRdZhB8-ZKSePM3XuJr5bvw\n\n---\nIs JAMNP intended to socialize individual vs aggregated BLS signatures ie\nhttps://graypaper.fluffylabs.dev/#/439ca37/1e7a001e7a00\nIf not, what does a validator do with ${\\bf F}_v$?  Should these be aggregated into EpochMarkers or into BridgeHub somehow?  ",
+			"date": 1730230897874,
+			"author": "@sourabhniyogi:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/1e7a001e7a00\nIf",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 30, "index": 122 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$KYefad5GvDaQ5ACS910gJvZJxQnZrt8WbxXxJUDcNms\n\n---\n> <@sourabhniyogi:matrix.org> Is JAMNP intended to socialize individual vs aggregated BLS signatures ie\n> https://graypaper.fluffylabs.dev/#/439ca37/1e7a001e7a00\n> If not, what does a validator do with ${\\bf F}_v$?  Should these be aggregated into EpochMarkers or into BridgeHub somehow?  \n\n* Currently, JAMNP does not incorporate any Beefy-related messaging. This gadget will need to be implemented on top of GRANDPA, which itself is not described by JAMNP yet.\nI would tentatively assume that the protocol won’t diverge _significantly_ from the one described for Polkadot. Of course, there are some differences, such as constructing the MMR with accumulation outputs, and using only BLS instead of BLS or ECDSA for signatures. However, for context, there are numerous introductory resources on these concepts available.\nRegarding the state of the \"BEEFY Distribution\" section in GP, it currently suggests signing each finalized block B. I'm not sure if this will later shift to a \"sign every X blocks\" approach similar to Beefy on Polkadot.\nThe signatures are for sure BLS signatures, which can be later aggregated for efficient light client verification. Aggregated signatures will necessitate an aggregated key, and APK proofs might be introduced to verify the validity of these aggregated keys (there is at least a talk and one excellent tutorial from Syed  online).\nWho is in charge of aggregation of BLS keys in JAM? Who is in charge of maintaining the keys commitment eventually required for APK proofs? Probably this aspect is outside of the core JAM protocol per se.\nThese aspects likely warrants further discussion, and it is probably not worth for you (or anyone else) to focus on it right now, given that GRANDPA is not on M1, and potentially not even on M2 either, meaning BEEFY is further down the line (it may be the last component indeed). I believe further details will be provided when the time is appropriate.\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$MAfD4vPMBoZLRBb86owDkDYXE875jEmzc0DwY1a7LzY\n\n---\n> <@sourabhniyogi:matrix.org> Is JAMNP intended to socialize individual vs aggregated BLS signatures ie\n> https://graypaper.fluffylabs.dev/#/439ca37/1e7a001e7a00\n> If not, what does a validator do with ${\\bf F}_v$?  Should these be aggregated into EpochMarkers or into BridgeHub somehow?\n\nCurrently, JAMNP does not incorporate any Beefy-related messaging. This gadget will need to be implemented\non top of GRANDPA, which itself is not described by JAMNP yet.\n\nI would tentatively assume that the protocol won’t diverge _significantly_ from the one described by Polkadot.\nOf course, there are some differences, such as constructing the MMR with accumulation outputs, and using only BLS instead of BLS or ECDSA for signatures. However, for context, there are numerous introductory\nresources on these concepts available.\n\nRegarding the state of the \"BEEFY Distribution\" section in GP, it currently suggests signing each finalized block B.\nI'm not sure if this will later shift to a \"sign every X blocks\" approach similar to Polkadot Beefy.\n\nThe signatures are for sure BLS signatures, which can be later aggregated for efficient light client verification.\nAggregated signatures will necessitate an aggregated key, and APK proofs might be introduced to verify the validity of these aggregated keys (there is at least a talk and one good tutorial from Syed  online).\n\nWho is in charge of aggregation of BLS keys in JAM? Who is in charge of maintaining the keys commitment eventually required for APK proofs? Maybe a dedicated Beefy service (I'm just speculating)? In that case this aspect may be outside of the core JAM protocol per se.\n\nThese aspects likely warrants further discussion, and it is probably not worth for you (or anyone else) to focus on it right now, given that GRANDPA is not on M1, and potentially not even on M2 either, meaning BEEFY is further down the line (it may be the last component indeed). I believe further details will be provided when the time is appropriate.\n",
+			"date": 1730290404788,
+			"author": "@davxy:matrix.org, @davxy:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/1e7a001e7a00\n>",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 30, "index": 122 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$PaBlhdzspjv8HoB6CsvzHd3KJ3vQnTbpeTsqROaDcZ8\n\n---\n> <@gav:polkadot.io> Images are a bit broken in matrix currently. \n\nhttps://graypaper.fluffylabs.dev/#/439ca37/0f8a010f9601",
+			"date": 1730383704596,
+			"author": "@jaymansfield:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/0f8a010f9601",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 15, "index": 394 },
+			"selectionEnd": { "pageNumber": 15, "index": 406 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$8hkO9lWcs-8y4NwG4_6QmFbEHTYG2ZO13qyv9tWfMEc\n\n---\n> <@jaymansfield:matrix.org> Thanks I’ll take a look. Confusing though as there is no mention of C in 177 either.\n\nhttps://graypaper.fluffylabs.dev/#/439ca37/179e02179e02",
+			"date": 1730384177556,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/179e02179e02",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 23, "index": 670 },
+			"selectionEnd": { "pageNumber": 23, "index": 670 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$jvRHjhPYDPQ8QiLrQ3tyDLjdcrvSBFtATbmmWsi1UBA\n\n---\n * Hello, I have a few questions about the [solicit](https://graypaper.fluffylabs.dev/#/439ca37/2f20022f2002) host call for the accumulation host functions\n\n1: This condition: `if h ≠ ∇ ∧ (h, z) /∈ (x_s)l` I assume should be `if h ≠ ∇ ∧ (h, z) /∈ K((x_s)l)` since `l` is a dictionary so here we are trying to verify if the key is in the dictionary\n\n2: one line bellow here: `if (x_s)l[(h, z)] = [x, y]` I can't figure out where do the _x_ and _y_ (italic) come from? (edit and _t_ as well)\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$1_ZSbnNVpbNpttUSQ7vSyBUNAwWH47cOqbu6PL8RJd8\n\n---\n * Hello, I have a few questions about the [solicit](https://graypaper.fluffylabs.dev/#/439ca37/2f20022f2002) host call for the accumulation host functions\n\n1: This condition: `if h ≠ ∇ ∧ (h, z) /∈ (x_s)l` I assume should be `if h ≠ ∇ ∧ (h, z) /∈ K(x_s)l` since `l` is a dictionary so here we are trying to verify if the key is in the dictionary\n\n2: one line bellow here: `if (x_s)l[(h, z)] = [x, y]` I can't figure out where do the _x_ and _y_ (italic) come from? (edit and *t* as well)\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Sv7jwLbVBrR98m5LVowUgLna99AyS8ww-CHe6p1TJpw\n\n---\n * Hello, I have a few questions about the [solicit](https://graypaper.fluffylabs.dev/#/439ca37/2f20022f2002) host call for the accumulation host functions\n\n1: This condition: `if h ≠ ∇ ∧ (h, z) /∈ (x_s)l` I assume should be `if h ≠ ∇ ∧ (h, z) /∈ K(x_s)l` since `l` is a dictionary so here we are trying to verify if the key is in the dictionary\n\n2: one line bellow here: `if (x_s)l[(h, z)] = [x, y]` I can't figure out where do the _x_ and _y_ (italic) come from?\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$lFzvzQJYZrCczqKTqT9SyqWBpb8wezG1fFq7B_PnnZQ\n\n---\nHello, I have a few questions about the [solicit](https://graypaper.fluffylabs.dev/#/439ca37/2f20022f2002) host call for the accumulation host functions \n1: This condition: `if h ≠ ∇ ∧ (h, z) /∈ (x_s)l` I assume should be `if h ≠ ∇ ∧ (h, z) /∈ K(x_s)l` since `l` is a dictionary so here we are trying to verify if the key is in the dictionary\n2: one line bellow here: `if (x_s)l[(h, z)] = [x, y]` I can't figure out where do the *x* and *y* (italic) come from?",
+			"date": 1730398252833,
+			"author": "@dvladco:matrix.org, @dvladco:matrix.org, @dvladco:matrix.org, @dvladco:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/439ca37/2f20022f2002)",
+			"version": "439ca37c4b76970bf276964603f613f1c1ea6322",
+			"selectionStart": { "pageNumber": 47, "index": 544 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		}
+	]
+}

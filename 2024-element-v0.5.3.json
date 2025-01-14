@@ -1,0 +1,38 @@
+{
+	"version": 3,
+	"notes": [
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$j6MQekKmJHWv_vfti5-BAoj7SplsEL7Pl-j7XV0lAgA\n\n---\nSorry, I'm a bit confused about the definition of serialization of guarantee extrinsic $Eg$.\nIn GP [5.6](https://graypaper.fluffylabs.dev/#/6e1c0cd/0ce0000cf200), $\\mathbf{g}$ is defined\nHowever, in appendix [C.16](https://graypaper.fluffylabs.dev/#/6e1c0cd/36870036ab00), there's already a definition for the serialization of $Eg$.\nIs $\\mathbf{g}$ specifically defined for $H_x$? Or which definition should we follow? Thanks",
+			"date": 1735531278220,
+			"author": "@yu2c:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/6e1c0cd/0ce0000cf200),",
+			"version": "6e1c0cdf82b09b4b738591380c0fc3ccfed955ba",
+			"selectionStart": { "pageNumber": 12, "index": 224 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$n9bActShHBHc4msB0mwqPsGQt6j5YMdBy2xzJydrN8U\n\n---\na doubt about the encoding of service storage and pre-image lookups in D.2:\nhttps://graypaper.fluffylabs.dev/#/6e1c0cd/373302377802\n\n\nif i am reading this correctly, after encoding it would be impossible to reconstruct the original hash keys when decoding\n\n\n    ∀(s ↦ a) ∈ δ, (k ↦ v) ∈ as ∶ C(s, E4(232 − 1) ⌢ k0...28) ↦ v \n\n\nam i missing something?\n\n\nthank you and a happy new year \n\n\n",
+			"date": 1735639100598,
+			"author": "@luke_fishman:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/6e1c0cd/373302377802\n\n\nif",
+			"version": "6e1c0cdf82b09b4b738591380c0fc3ccfed955ba",
+			"selectionStart": { "pageNumber": 55, "index": 563 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$PPWGxydORvICmsKWLsOK2qAWOa7xln8fIAcfNgKMP7A\n\n---\n> <@luke_fishman:matrix.org> a doubt about the encoding of service storage and pre-image lookups in D.2:\n> https://graypaper.fluffylabs.dev/#/6e1c0cd/373302377802\n> \n> \n> if i am reading this correctly, after encoding it would be impossible to reconstruct the original hash keys when decoding\n> \n> \n>     ∀(s ↦ a) ∈ δ, (k ↦ v) ∈ as ∶ C(s, E4(232 − 1) ⌢ k0...28) ↦ v \n> \n> \n> am i missing something?\n> \n> \n> thank you and a happy new year \n> \n> \n> \n\nYou’re not missing anything. HNY:)",
+			"date": 1735639350716,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/6e1c0cd/373302377802\n>",
+			"version": "6e1c0cdf82b09b4b738591380c0fc3ccfed955ba",
+			"selectionStart": { "pageNumber": 55, "index": 563 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		}
+	]
+}

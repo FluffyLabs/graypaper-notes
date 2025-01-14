@@ -1,0 +1,104 @@
+{
+	"version": 3,
+	"notes": [
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$K8xH-7U2RzDGBCKZlr5PIVJgT2NWz7ttnZndC3Y174U\n\n---\n * I have a doubt about this formula:\n(7.2) β† ≡ β except β†\\[|β| − 1\\]s = Hr\n\nWhat is the correct interpretation:\n\n1. β† is a copy of β except that in the last element of β† we replace s for the value of Hr\n2. β† is a copy of β only if the value of s in the last element is equal to Hr, otherwise β† is nil\n\nhttps://graypaper.fluffylabs.dev/#/5b732de/0fd5010fde01\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$evTLZSkNdglsrHtDDaEgfk7QUXCvxMOG4faryKbLzqU\n\n---\nI have a doubt about this formula: \n(7.2) β† ≡ β except β†[|β| − 1]s = Hr\n\nWhat is the correct interpretation:\n1) β† is a copy of β except that in the last element of β† we replace s for the value of Hr\n2) β† a copy of β only if the value of s in the last element is equal to Hr, otherwise β† is nil \n\n\nhttps://graypaper.fluffylabs.dev/#/5b732de/0fd5010fde01",
+			"date": 1733950711100,
+			"author": "@danicuki:matrix.org, @danicuki:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/5b732de/0fd5010fde01",
+			"version": "5b732de277d9d2b8f5ce10d8fd26e079d45fc786",
+			"selectionStart": { "pageNumber": 15, "index": 469 },
+			"selectionEnd": { "pageNumber": 15, "index": 478 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Jx-piEiLaFGcpGAfrA0CCX8jldQA3LRUyLU-CkGNNhU\n\n---\nWork Package bundle = work package, work items extrinsics, work items import segements, work items justifications\n\n\nWe are encoding this Work package bundle here: https://graypaper.fluffylabs.dev/#/5b732de/1b5d001b5d00\n\nI think we should encode the import segment with length as we don't have the length information of import segments in work report like extrinsics or constant length (hash) like Justifications\n\nor is there some other way to get the length of import segments?\n\n\n\n",
+			"date": 1733977868835,
+			"author": "@amritj:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/5b732de/1b5d001b5d00\n\nI",
+			"version": "5b732de277d9d2b8f5ce10d8fd26e079d45fc786",
+			"selectionStart": { "pageNumber": 27, "index": 93 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$nOfL1ArP48rICKA1ROmx0dQOcuX5zPkXu8NilnBURkk\n\n---\n * We are removing the starting 1 bit from the left sub-trie identity\n\nhttps://graypaper.fluffylabs.dev/#/5b732de/37ab0237af02\n\nBut as this is a hash, we don't know exactly if the starting bit of the left sub-trie identity will be 0 or 1.\n\nSo, how do we decode this hash value? What am I missing here?\n\n\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$xXpISs-MwcbtqVZjknlgU3q5qRrnyCp8FaKURfInsJU\n\n---\n * We are removing the starting 1 bit from the left sub-trie identity\n\nhttps://graypaper.fluffylabs.dev/#/5b732de/37ab0237af02\n\nBut as this is a hash, we don't know exactly if the starting bit of the left sub-trie identity will be 0 or 1.\n\nSo, how do we decode this hash value? What am I missing something here?\n\n\n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$y5TqhLGEEiYMKBgQyX_IVk1wOzpQDO5OLVwcPnfDVbE\n\n---\nWe are removing the starting 1 bit from the left sub-trie identity\n\nhttps://graypaper.fluffylabs.dev/#/5b732de/37ab0237af02\n\nBut as this is a hash, we don't know exactly if the starting bit of the left sub-trie identity will be 0 or 1.\n\nSo, how do we decode this hash value? Maybe I am missing something here\n\n",
+			"date": 1734286903978,
+			"author": "@amritj:matrix.org, @amritj:matrix.org, @amritj:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/5b732de/37ab0237af02\n\nBut",
+			"version": "5b732de277d9d2b8f5ce10d8fd26e079d45fc786",
+			"selectionStart": { "pageNumber": 55, "index": 683 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$bnuwOPEVHTkDKIJusxHuClkGO4jiJUu_v406V6tJISQ\n\n---\nSuggestion for an inconsistency fix in the designate host function.\nPR: https://github.com/gavofyork/graypaper/pull/166\n(GP: https://graypaper.fluffylabs.dev/#/5b732de/306401306401)\n",
+			"date": 1734390353861,
+			"author": "@emielsebastiaan:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/5b732de/306401306401)\n",
+			"version": "5b732de277d9d2b8f5ce10d8fd26e079d45fc786",
+			"selectionStart": { "pageNumber": 48, "index": 356 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Tq_XrFxr6C_OX77ZLBYYCBToG2Qu7OfJmNmIrymUsKQ\n\n---\nhttps://graypaper.fluffylabs.dev/#/5b732de/1b9d001b9f00 this have a description of it, but it leaves some ambiguity of the encoding format. e.g. how exactly are the extrinsic data and the proofs are encoded?",
+			"date": 1734483528944,
+			"author": "@xlchen:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/5b732de/1b9d001b9f00",
+			"version": "5b732de277d9d2b8f5ce10d8fd26e079d45fc786",
+			"selectionStart": { "pageNumber": 27, "index": 157 },
+			"selectionEnd": { "pageNumber": 27, "index": 159 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$McyqhhkalPDzJjejo85KWAAgLtRkovvDSkCE8Ra_fcY\n\n---\nhttps://graypaper.fluffylabs.dev/#/5b732de/1b5d001b5d00",
+			"date": 1734483824653,
+			"author": "@dave:parity.io",
+			"link": "https://graypaper.fluffylabs.dev/#/5b732de/1b5d001b5d00",
+			"version": "5b732de277d9d2b8f5ce10d8fd26e079d45fc786",
+			"selectionStart": { "pageNumber": 27, "index": 93 },
+			"selectionEnd": { "pageNumber": 27, "index": 93 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$B5X09WudkNE7RriKIhwoWYuUfR12c1V4UYAZwz19M20\n\n---\nHello, question here : \n[\\mathbb{H}^0](https://graypaper.fluffylabs.dev/#/5b732de/377b02377c02)  = [0]_32 in Ch3.8.1 called \"zero-hash\"\nHowever, [\\mathbb{H}_0](https://graypaper.fluffylabs.dev/#/5b732de/391200391200) called \"zero hash\"\nIs there any difference between these terms? \nDoes \"zero hash\" also refer to [0]_32 or does it take 0 as input of hash func?",
+			"date": 1734545541867,
+			"author": "@yu2c:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/5b732de/377b02377c02)",
+			"version": "5b732de277d9d2b8f5ce10d8fd26e079d45fc786",
+			"selectionStart": { "pageNumber": 55, "index": 635 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$Ttwf_44q-miJfoWvtZLVRuWh7_tXJQaw0DyhnYubm0c\n\n---\nin accumulate host function (Appendix B), the transfer function:\n\nhttps://graypaper.fluffylabs.dev/#/5b732de/311401311401\n\n\nthe \"otherwise if ϱ < g \" branch\ndoes the g here refer the g = value of register #9\nor g = 10 + ω8 + 232 ⋅ ω9 the gas cost?\nThanks :)\n\n",
+			"date": 1734600214225,
+			"author": "@luke_fishman:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/5b732de/311401311401\n\n\nthe",
+			"version": "5b732de277d9d2b8f5ce10d8fd26e079d45fc786",
+			"selectionStart": { "pageNumber": 49, "index": 276 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$13n85sFSbsEZ4hr3-l0DDN2ELeeiyyvMcFKTptzo41E\n\n---\nHello, I have a question about the structure of recent history $beta$, in the GP [(7.1)](https://graypaper.fluffylabs.dev/#/5b732de/0fb6010fca01) is (header hash, accumulation-result MMR, state root, work-report dict.), however in [(7.3)](https://graypaper.fluffylabs.dev/#/5b732de/0f41020f6c02) the item $n$ is (work-report dict., header hash, accumulation-result MMR, state root).\nThe order seems inconsistent. Which one should I follow? I assume this is a tuple, so the order is important for implementation because they will concat. at the end",
+			"date": 1735221090782,
+			"author": "@yu2c:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/5b732de/0fb6010fca01)",
+			"version": "5b732de277d9d2b8f5ce10d8fd26e079d45fc786",
+			"selectionStart": { "pageNumber": 15, "index": 438 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		}
+	]
+}

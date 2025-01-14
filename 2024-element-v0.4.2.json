@@ -1,0 +1,148 @@
+{
+	"version": 3,
+	"notes": [
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$XtP7wRvjPSJ0AL0G3TpEGUZYOVUsj7ZR3Kpgm4ccfY0\n\n---\nHi gav: is there a typo in the Page proof function here? https://graypaper.fluffylabs.dev/#/293bf5a/1a4f001a5100\n\nIs eq 196 in the ↕s referring to the actual segment or the segment hash? If it’s the segment, then each element within the page proof (encoded as 6Hash + G) would make this page proof extremely large (up to 64 G)  ?",
+			"date": 1729207336060,
+			"author": "@stanleyli:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/1a4f001a5100\n\nIs",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 26, "index": 79 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$cz9gjNZWwW3ydkTh9T_M6t_kqAsk8oxlXr1KG5-xvhs\n\n---\n * Hi gav: is there a typo in the Page proof function here? https://graypaper.fluffylabs.dev/#/293bf5a/1a4f001a5100\n\nIn eq 196, is the ↕s referring to the actual segment or the segment hash? If it’s the segment, then each element within the page proof (encoded as 6Hash + G) would make this page proof extremely large (up to 64 G) ?",
+			"date": 1729207545409,
+			"author": "@stanleyli:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/1a4f001a5100\n\nIn",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 26, "index": 79 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$J7LKXoOczVtAhVDfRRsJogCqetELdLJYpDm4FwsRse4\n\n---\n> <@stanleyli:matrix.org> Hi gav: is there a typo in the Page proof function here? https://graypaper.fluffylabs.dev/#/293bf5a/1a4f001a5100\n> \n> In eq 196, is the ↕s referring to the actual segment or the segment hash? If it’s the segment, then each element within the page proof (encoded as 6Hash + G) would make this page proof extremely large (up to 64 G) ?\n\nYes, as David Emett suggested, there should be a `H^#(...)` around the `s_{i...+64}`",
+			"date": 1729250637752,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/1a4f001a5100\n>",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 26, "index": 79 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$YfwR6hPQTpjzprVQjwjG2C4353_WdLDn-FRCV99TrAo\n\n---\nwhat is the `w` referenced in the forget host call? https://graypaper.fluffylabs.dev/#/293bf5a/30e60030e600",
+			"date": 1729500741651,
+			"author": "@dakkk:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/30e60030e600",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 48, "index": 230 },
+			"selectionEnd": { "pageNumber": 48, "index": 230 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$KGYE2PJIcsXnpVu37hq-SYNNDPISAv7aqjuRgg5mmjE\n\n---\nin quit hostcall, `a` is never used: https://graypaper.fluffylabs.dev/#/293bf5a/2f55012f5e01",
+			"date": 1729500903293,
+			"author": "@dakkk:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/2f55012f5e01",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 47, "index": 341 },
+			"selectionEnd": { "pageNumber": 47, "index": 350 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$vuiBnvMCE3V1P6hHEHzsGi70Y7UhSIeYuQ8ArHfksf8\n\n---\nin historical_lookup hostcall, `k` is undefined: https://graypaper.fluffylabs.dev/#/293bf5a/307102307102 ",
+			"date": 1729502033186,
+			"author": "@dakkk:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/307102307102",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 48, "index": 625 },
+			"selectionEnd": { "pageNumber": 48, "index": 625 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$St53uQRlLvCknLadt1Ntmr_1VQF6lHRR3l7GFgpK9xw\n\n---\n`i` is undefined in poke hostcall: https://graypaper.fluffylabs.dev/#/293bf5a/316d02317402",
+			"date": 1729502762463,
+			"author": "@dakkk:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/316d02317402",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 49, "index": 621 },
+			"selectionEnd": { "pageNumber": 49, "index": 628 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$IUZ8rlLm3J3vMptqW6vvcBjc5ArvSSbUdoXuzuYuH7Y\n\n---\n> <@dakkk:matrix.org> in quit hostcall, `a` is never used: https://graypaper.fluffylabs.dev/#/293bf5a/2f55012f5e01\n\na is used to construct t: https://graypaper.fluffylabs.dev/#/293bf5a/2f97012f9801",
+			"date": 1729513307809,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/2f55012f5e01\n\na",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 47, "index": 341 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$fQtNcZ6-WTFwKkZNb4NQLaV9khM6cIe5q2-9T06pBdc\n\n---\n> <@dakkk:matrix.org> what is the `w` referenced in the forget host call? https://graypaper.fluffylabs.dev/#/293bf5a/30e60030e600\n\nIt is the third item of (x_s)_l[h, z] with the assertion that it's a three-item array ",
+			"date": 1729513378119,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/30e60030e600\n\nIt",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 48, "index": 230 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$qFjw3L15Xj_tLcX2SG8rMhQHX2ur-SQMOmC2FVmYQIw\n\n---\n> <@dakkk:matrix.org> what is the `w` referenced in the forget host call? https://graypaper.fluffylabs.dev/#/293bf5a/30e60030e600\n\n * It is the third item of (x\\_s)\\_l\\[h, z\\] with the condition that it's a three-item array (notice it's behind the \"if\" condition)",
+			"date": 1729513515868,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/30e60030e600\n\n",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 48, "index": 230 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$pHFk1v8vCbTCDAu0Lebbpf_vfOltAjCDSQK51r2jDTc\n\n---\nNo debate on that, thanks for explaining.  But  on this last nitpick I mean  the work items in the work package, as of 0.4.x have this $H^\\boxplus$ source here: \nhttps://graypaper.fluffylabs.dev/#/293bf5a/199e0019a500\nAs far as I can tell, I could have an old work package hash from a long time ago -- \"whereas a value drawn from H⊞ implies the hash value is\nthe hash of the exporting work-package. In the latter case, it must be converted into a segment-root by the guarantor and this conversion reported in the work-report for on-chain validation.\"   If you believe this last statement is only applied for around an epoch (with the circular buffer mechanics, as you mention) then we should ensure this is clear in GP, don't you think?",
+			"date": 1729554298235,
+			"author": "@sourabhniyogi:matrix.org",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/199e0019a500\nAs",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 25, "index": 158 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$_2zp4kuuza8JoLRPh2cx7Ntt76LErgzpznToli0up8A\n\n---\n> <@sourabhniyogi:matrix.org> No debate on that, thanks for explaining.  But  on this last nitpick I mean  the work items in the work package, as of 0.4.x have this $H^\\boxplus$ source here: \n> https://graypaper.fluffylabs.dev/#/293bf5a/199e0019a500\n> As far as I can tell, I could have an old work package hash from a long time ago -- \"whereas a value drawn from H⊞ implies the hash value is\n> the hash of the exporting work-package. In the latter case, it must be converted into a segment-root by the guarantor and this conversion reported in the work-report for on-chain validation.\"   If you believe this last statement is only applied for around an epoch (with the circular buffer mechanics, as you mention) then we should ensure this is clear in GP, don't you think?\n\nThe guarantor will not be punished for introducing a WR with an old/unvalidatable SR lookup entry. They might just not get rewarded.\nAnd it beyond the scope of the GP (at least currently) to go deep into the optimum strategies across all off-chain behaviour. ",
+			"date": 1729593471159,
+			"author": "@gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/199e0019a500\n>",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 25, "index": 158 },
+			"selectionEnd": { "pageNumber": 0, "index": 0 },
+			"labels": ["element"]
+		},
+		{
+			"noteVersion": 3,
+			"content": "https://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$oQq5EXf1n-bE-NP7DZs65M7YIlIdFZ-8X6uQq7wSRU8\n\n---\n> <@bmaas:matrix.org> Are we guaranteed to have deterministic ordering here: https://graypaper.fluffylabs.dev/#/293bf5a/346502346f02 ? I could not find any mention of how to handle (small) sets when encoding—whether to sort them or not. When I read about Theta as defined here:  https://graypaper.fluffylabs.dev/#/c71229b/154402154e02, where `{H}` is a set of work-package hashes, it raises a question. Should this set containing work-package hashes be ordered before encoding?\n\nGP should state that sets of encodable items should be encoded in order. \n---\nhttps://matrix.to/#/!ddsEwXlCWnreEGuqXZ:polkadot.io/$nJi8y5cC2ERd0CGy10p59EKSYpWzGQK3imWlgKWuH94\n\n---\nAre we guaranteed to have deterministic ordering here: https://graypaper.fluffylabs.dev/#/293bf5a/346502346f02 ? I could not find any mention of how to handle (small) sets when encoding—whether to sort them or not. When I read about Theta as defined here:  https://graypaper.fluffylabs.dev/#/c71229b/154402154e02, where `{H}` is a set of work-package hashes, it raises a question. Should this set containing work-package hashes be ordered before encoding?",
+			"date": 1729674463621,
+			"author": "@bmaas:matrix.org, @gav:polkadot.io",
+			"link": "https://graypaper.fluffylabs.dev/#/293bf5a/346502346f02",
+			"version": "293bf5ad983f6b8c16d8773334960c06f38c6e90",
+			"selectionStart": { "pageNumber": 52, "index": 613 },
+			"selectionEnd": { "pageNumber": 52, "index": 623 },
+			"labels": ["element"]
+		}
+	]
+}
