@@ -1,0 +1,581 @@
+{
+  "version": 3,
+  "notes": [
+    {
+      "noteVersion": 3,
+      "content": "The error code for “(\\mathbf{x} = \\error)” used to be ( \\mathtt{OOB}, \\mathbf{e} ); now it becomes ( \\panic, \\registers_7, \\mathbf{e} ). So the code is different: if we can’t parse the data to export, we do a panic instead of an OOB code.",
+      "date": 1738333764949,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 52,
+        "index": 757
+      },
+      "selectionEnd": {
+        "pageNumber": 52,
+        "index": 757
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The “import” host call has become a more general “fetch” that can read from multiple data sources within the work-package or the array of import segments.",
+      "date": 1738333705035,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 52,
+        "index": 287
+      },
+      "selectionEnd": {
+        "pageNumber": 52,
+        "index": 287
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The “historical lookup” call now references w_s from the new structure, plus (p_\\mathbf{x})_t.",
+      "date": 1738332691646,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 367
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 374
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The function “F” (the host callback) used to handle calls to \\Omega_Y(\\dots, \\mathbf{i}) under \\mathtt{import}, but now the import call is replaced by \\mathtt{fetch} that calls \\Omega_Y(\\dots, i, p, \\mathbf{o}, \\overline{\\mathbf{i}}).",
+      "date": 1738332674178,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 379
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 379
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "- Old call: \n $\\Psi_M(\\Lambda(\\delta[s], \\mathbf{c}_t, c), 0, g, a, F, (\\emptyset, []))$ \n\n- New call: \n $\\Psi_M(\\Lambda(\\delta[w_s], (p_\\mathbf{x})_t, w_c), 0, w_g, a, F, (\\emptyset, []))$ ",
+      "date": 1738332591040,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 247
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 247
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Moved from “(code-hash c, gas g, service index s, package hash p, payload \\mathbf{y}, context \\mathbf{c}, authorizer a, output \\mathbf{o}, import segments \\mathbf{i}, extrinsic data \\overline{\\mathbf{x}}, offset \\segoff )” to a drastically simpler signature referencing “(work-item index i, the full work-package p, the output \\mathbf{o}, the collective import data \\overline{\\mathbf{i}}, and offset \\segoff).”",
+      "date": 1738332483432,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 69
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 69
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The new text explicitly defines \\overline{\\mathbf{i}} as an array of import-segment data for each work-item.",
+      "date": 1738326568795,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 506
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 520
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The refine function’s signature changes from a many-argument variant to one taking (j, \\wpX, \\mathbf{o}, \\overline{\\mathbf{i}}, \\ell).",
+      "date": 1738326525466,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 618
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 618
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Shifted emphasis to clarify that \\importsegmentdata and \\extrinsicdata are separate.",
+      "date": 1738326459819,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 25
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 28
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Old text:\n“It explicitly accepts the work payload, \\mathbf{y}, the service index s, code-hash c, etc.”\nNew text:\n“It explicitly accepts the work-package p and the index of the work item i…”",
+      "date": 1738326221834,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 54
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 55
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The descriptive text changed from “The return value for when a memory index is provided for reading/writing which is not accessible” to a slightly reworded statement focusing on “the inner \\textsc{pvm} memory index.”",
+      "date": 1738326157118,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 44,
+        "index": 642
+      },
+      "selectionEnd": {
+        "pageNumber": 44,
+        "index": 642
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The rotation instructions for 32-bit registers now rotate according to \\reg_B instead of \\reg_A in the shift count.",
+      "date": 1738326109521,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 42,
+        "index": 886
+      },
+      "selectionEnd": {
+        "pageNumber": 42,
+        "index": 887
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The rotation instructions for 32-bit registers now rotate according to \\reg_B instead of \\reg_A in the shift count.",
+      "date": 1738326103518,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 42,
+        "index": 824
+      },
+      "selectionEnd": {
+        "pageNumber": 42,
+        "index": 825
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The set used for indexing bits is changed from a power-of-two sized domain to 8n.\n",
+      "date": 1738326039692,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 36,
+        "index": 357
+      },
+      "selectionEnd": {
+        "pageNumber": 36,
+        "index": 358
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "- Newly clarifies that if the RAM index is below 2^{16}, the machine panics.\n- Also clarifies that if a memory region is not available for read/mutate, the machine faults at the “lowest inaccessible page address.”",
+      "date": 1738325985541,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 36,
+        "index": 38
+      },
+      "selectionEnd": {
+        "pageNumber": 36,
+        "index": 40
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Switched the notation to bold-math style for the block and header symbol.",
+      "date": 1738325932187,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 8,
+        "index": 140
+      },
+      "selectionEnd": {
+        "pageNumber": 8,
+        "index": 141
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "In the call to \\unzip_{684} , the argument went from (\\mathbf{p}) to (\\mathbf{d}).",
+      "date": 1738325752611,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 60,
+        "index": 76
+      },
+      "selectionEnd": {
+        "pageNumber": 60,
+        "index": 84
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "A clarifying rewording to emphasize that the numbers are provisional.\n",
+      "date": 1738325677042,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 33,
+        "index": 102
+      },
+      "selectionEnd": {
+        "pageNumber": 33,
+        "index": 107
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The “input data” throughput changed from 2.5 MB/s and 852 MB/s to 2 MB/s and 682 MB/s.\n",
+      "date": 1738325637471,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 33,
+        "index": 79
+      },
+      "selectionEnd": {
+        "pageNumber": 33,
+        "index": 79
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The text now refers more simply to “32-bit account system” (instead of “4bn 32-bit”), and the example throughput was lowered from ~1.7 million TPS to ~1.4 million.",
+      "date": 1738325602734,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 32,
+        "index": 39
+      },
+      "selectionEnd": {
+        "pageNumber": 32,
+        "index": 44
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The “naive” throughput example changed from 15 MB & 90 KB to 12 MB & 48 KB, along with revised numbers for transactions and total TPS (previously: 3k transactions per package, or 312k tps in total).",
+      "date": 1738325569012,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 32,
+        "index": 19
+      },
+      "selectionEnd": {
+        "pageNumber": 32,
+        "index": 24
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The allowed output (“work result”) shrank from 90 KB to 48 KB.",
+      "date": 1738325472856,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 31,
+        "index": 354
+      },
+      "selectionEnd": {
+        "pageNumber": 31,
+        "index": 354
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "“general-purpose I/O” changed from 2.5 mb/s to 2 mb/s.",
+      "date": 1738325446332,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 31,
+        "index": 345
+      },
+      "selectionEnd": {
+        "pageNumber": 31,
+        "index": 345
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Changed from 336 & 342",
+      "date": 1738325421748,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 31,
+        "index": 291
+      },
+      "selectionEnd": {
+        "pageNumber": 31,
+        "index": 292
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Renamed \"Block publication\" as \"Authoring\" and change previous values of 42 & 42.",
+      "date": 1738325395178,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 31,
+        "index": 283
+      },
+      "selectionEnd": {
+        "pageNumber": 31,
+        "index": 284
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Changed from 200 & 200",
+      "date": 1738325358096,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 31,
+        "index": 279
+      },
+      "selectionEnd": {
+        "pageNumber": 31,
+        "index": 280
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Changed from 60 & 56",
+      "date": 1738325332450,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 31,
+        "index": 275
+      },
+      "selectionEnd": {
+        "pageNumber": 31,
+        "index": 276
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Changed from 30 & 40",
+      "date": 1738325319864,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 31,
+        "index": 271
+      },
+      "selectionEnd": {
+        "pageNumber": 31,
+        "index": 272
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Changed 1tb to 8tb in the discussion about recommended hardware.",
+      "date": 1738325215742,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 31,
+        "index": 203
+      },
+      "selectionEnd": {
+        "pageNumber": 31,
+        "index": 203
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The literal text 3_500,000,000 (with underscore) changed to 3,500,000,000 (with a comma).",
+      "date": 1738325162974,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 65,
+        "index": 91
+      },
+      "selectionEnd": {
+        "pageNumber": 65,
+        "index": 91
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "The symbol &\\equiv changed to &\\Leftrightarrow.\nIn context, R(...) is no longer just a definition/equivalence but an actual bidirectional logical condition.",
+      "date": 1738324898929,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 24,
+        "index": 122
+      },
+      "selectionEnd": {
+        "pageNumber": 24,
+        "index": 122
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Version was updated from 0.5.4 to 0.6.0 and \"New Delhi\" was added.",
+      "date": 1738324820697,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 1,
+        "index": 24
+      },
+      "selectionEnd": {
+        "pageNumber": 1,
+        "index": 24
+      },
+      "version": "78ca0a81d8058531c2e2e46235db2b832eae0213",
+      "labels": [
+        "Changes in 0.6.0"
+      ]
+    }
+  ]
+}
