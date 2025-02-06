@@ -3,6 +3,134 @@
   "notes": [
     {
       "noteVersion": 3,
+      "content": "PVM Invocations: Condense fetch condition #230",
+      "date": 1738879267597,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 52,
+        "index": 542
+      },
+      "selectionEnd": {
+        "pageNumber": 52,
+        "index": 542
+      },
+      "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
+      "labels": ["Changes in 0.6.2"]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM Invocations: Remove old condition from fetch #229",
+      "date": 1738879222326,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 52,
+        "index": 514
+      },
+      "selectionEnd": {
+        "pageNumber": 52,
+        "index": 526
+      },
+      "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
+      "labels": ["Changes in 0.6.2"]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Correct signed modulos #224",
+      "date": 1738879160458,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 42,
+        "index": 1024
+      },
+      "selectionEnd": {
+        "pageNumber": 42,
+        "index": 1025
+      },
+      "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
+      "labels": ["Changes in 0.6.2"]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Correct signed modulos #224",
+      "date": 1738879153986,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 42,
+        "index": 336
+      },
+      "selectionEnd": {
+        "pageNumber": 42,
+        "index": 336
+      },
+      "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
+      "labels": ["Changes in 0.6.2"]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Correct signed modulos #224",
+      "date": 1738879150688,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 41,
+        "index": 996
+      },
+      "selectionEnd": {
+        "pageNumber": 41,
+        "index": 996
+      },
+      "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
+      "labels": ["Changes in 0.6.2"]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Missing modulo for rem_u_32\nhttps://github.com/gavofyork/graypaper/pull/223",
+      "date": 1738878399469,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 41,
+        "index": 927
+      },
+      "selectionEnd": {
+        "pageNumber": 41,
+        "index": 927
+      },
+      "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
+      "labels": ["Changes in 0.6.2"]
+    },
+    {
+      "noteVersion": 3,
+      "content": "`Deblob` function added.\nhttps://github.com/gavofyork/graypaper/pull/221",
+      "date": 1738878149193,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 35,
+        "index": 22
+      },
+      "selectionEnd": {
+        "pageNumber": 35,
+        "index": 25
+      },
+      "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
+      "labels": ["Changes in 0.6.2"]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Deblob function added.\nhttps://github.com/gavofyork/graypaper/pull/221",
+      "date": 1738878131850,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 52,
+        "index": 870
+      },
+      "selectionEnd": {
+        "pageNumber": 52,
+        "index": 874
+      },
+      "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
+      "labels": ["Changes in 0.6.2"]
+    },
+    {
+      "noteVersion": 3,
       "content": "`void` validation corrected (PR: #220)",
       "date": 1738855710953,
       "author": "",
