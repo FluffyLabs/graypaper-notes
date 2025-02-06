@@ -3,6 +3,78 @@
   "notes": [
     {
       "noteVersion": 3,
+      "content": "`void` validation corrected (PR: #220)",
+      "date": 1738855710953,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 53,
+        "index": 669
+      },
+      "selectionEnd": {
+        "pageNumber": 53,
+        "index": 671
+      },
+      "version": "4bb8fd258ee2d49767f6725993fb5a4045ee19a3",
+      "labels": [
+        "Changes in 0.6.1"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Extrinsic-by-hash fetching removed (PR: #219)",
+      "date": 1738855615848,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 52,
+        "index": 435
+      },
+      "selectionEnd": {
+        "pageNumber": 52,
+        "index": 435
+      },
+      "version": "4bb8fd258ee2d49767f6725993fb5a4045ee19a3",
+      "labels": [
+        "Changes in 0.6.1"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Added sign-extension operator (PR: #218)",
+      "date": 1738855516750,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 41,
+        "index": 803
+      },
+      "selectionEnd": {
+        "pageNumber": 41,
+        "index": 803
+      },
+      "version": "4bb8fd258ee2d49767f6725993fb5a4045ee19a3",
+      "labels": [
+        "Changes in 0.6.1"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Renamed from `Import segment` to `Fetch data` (PR: #204)",
+      "date": 1738855442931,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 63,
+        "index": 144
+      },
+      "selectionEnd": {
+        "pageNumber": 63,
+        "index": 144
+      },
+      "version": "4bb8fd258ee2d49767f6725993fb5a4045ee19a3",
+      "labels": [
+        "Changes in 0.6.1"
+      ]
+    },
+    {
+      "noteVersion": 3,
       "content": "The error code for “(\\mathbf{x} = \\error)” used to be ( \\mathtt{OOB}, \\mathbf{e} ); now it becomes ( \\panic, \\registers_7, \\mathbf{e} ). So the code is different: if we can’t parse the data to export, we do a panic instead of an OOB code.",
       "date": 1738333764949,
       "author": "",
