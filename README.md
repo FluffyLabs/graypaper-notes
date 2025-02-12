@@ -7,3 +7,4 @@ Gray Paper Reader community notes
 # Version changes
 
 - [0.5.4](./version-0.5.4.json)
+- [0.6.x](./version-0.6.0.json)
