@@ -3,6 +3,1122 @@
   "notes": [
     {
       "noteVersion": 3,
+      "content": "PVM Invocation: `fetch`able auth details\nhttps://github.com/gavofyork/graypaper/pull/236",
+      "date": 1741031270643,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 35
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 38
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM Invocation: `fetch`able auth details\nhttps://github.com/gavofyork/graypaper/pull/236",
+      "date": 1741031238846,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 687
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 695
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM Invocation: `fetch`able auth details\nhttps://github.com/gavofyork/graypaper/pull/236",
+      "date": 1741031178124,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 653
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 685
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM Invocation: `fetch`able auth details\nhttps://github.com/gavofyork/graypaper/pull/236",
+      "date": 1741031148572,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 533
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 551
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Introduce metadata prefix into authorizer/service code blobs\nhttps://github.com/gavofyork/graypaper/pull/263\nWPs&WRs: AuthorizerHash is hash of codehash with param\nhttps://github.com/gavofyork/graypaper/pull/240",
+      "date": 1741031080217,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 223
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 283
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "WPs&WRs: AuthorizerHash is hash of codehash with param\nhttps://github.com/gavofyork/graypaper/pull/240",
+      "date": 1741031059394,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 211
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 219
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741031048035,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 164
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 210
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741031010846,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 134
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 135
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Update limits and introduce extrinsics limit on WPs\nhttps://github.com/gavofyork/graypaper/pull/265\nMisc: Introduce metadata prefix into authorizer/service code blobs\nhttps://github.com/gavofyork/graypaper/pull/263",
+      "date": 1741030981516,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 25,
+        "index": 238
+      },
+      "selectionEnd": {
+        "pageNumber": 25,
+        "index": 287
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Introduce metadata prefix into authorizer/service code blobs\nhttps://github.com/gavofyork/graypaper/pull/263",
+      "date": 1741030916932,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 25,
+        "index": 182
+      },
+      "selectionEnd": {
+        "pageNumber": 25,
+        "index": 182
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Introduce metadata prefix into authorizer/service code blobs\nhttps://github.com/gavofyork/graypaper/pull/263",
+      "date": 1741030887634,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 25,
+        "index": 145
+      },
+      "selectionEnd": {
+        "pageNumber": 25,
+        "index": 156
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Serialization: Encoding for Wrangled Accumulation Items\nhttps://github.com/gavofyork/graypaper/pull/267",
+      "date": 1741030744052,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 55,
+        "index": 810
+      },
+      "selectionEnd": {
+        "pageNumber": 55,
+        "index": 822
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741030720967,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 55,
+        "index": 633
+      },
+      "selectionEnd": {
+        "pageNumber": 55,
+        "index": 652
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741030706446,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 55,
+        "index": 607
+      },
+      "selectionEnd": {
+        "pageNumber": 55,
+        "index": 617
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Chapter 11: Correct work item to result since it's talking about work reports\nhttps://github.com/gavofyork/graypaper/pull/243",
+      "date": 1741030217670,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 21,
+        "index": 248
+      },
+      "selectionEnd": {
+        "pageNumber": 21,
+        "index": 253
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741030195550,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 20,
+        "index": 41
+      },
+      "selectionEnd": {
+        "pageNumber": 20,
+        "index": 48
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741030160797,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 19,
+        "index": 332
+      },
+      "selectionEnd": {
+        "pageNumber": 19,
+        "index": 336
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741030155234,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 19,
+        "index": 325
+      },
+      "selectionEnd": {
+        "pageNumber": 19,
+        "index": 331
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741030130368,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 19,
+        "index": 314
+      },
+      "selectionEnd": {
+        "pageNumber": 19,
+        "index": 318
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741030081422,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 19,
+        "index": 156
+      },
+      "selectionEnd": {
+        "pageNumber": 19,
+        "index": 170
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741030024599,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 19,
+        "index": 111
+      },
+      "selectionEnd": {
+        "pageNumber": 19,
+        "index": 118
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers can only be non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/262",
+      "date": 1741026522828,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 52,
+        "index": 763
+      },
+      "selectionEnd": {
+        "pageNumber": 52,
+        "index": 775
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM Invocation: `fetch`able auth details\nhttps://github.com/gavofyork/graypaper/pull/236",
+      "date": 1741026508763,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 52,
+        "index": 438
+      },
+      "selectionEnd": {
+        "pageNumber": 52,
+        "index": 443
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers can only be non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/262",
+      "date": 1741026422394,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 51,
+        "index": 585
+      },
+      "selectionEnd": {
+        "pageNumber": 51,
+        "index": 592
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers can only be non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/262",
+      "date": 1741026400381,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 51,
+        "index": 104
+      },
+      "selectionEnd": {
+        "pageNumber": 51,
+        "index": 112
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers can only be non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/262",
+      "date": 1741026372642,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 50,
+        "index": 605
+      },
+      "selectionEnd": {
+        "pageNumber": 50,
+        "index": 613
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers can only be non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/262",
+      "date": 1741026353857,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 50,
+        "index": 360
+      },
+      "selectionEnd": {
+        "pageNumber": 50,
+        "index": 368
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers can only be non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/262",
+      "date": 1741026220184,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 49,
+        "index": 452
+      },
+      "selectionEnd": {
+        "pageNumber": 49,
+        "index": 470
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers can only be non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/262",
+      "date": 1741026196871,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 49,
+        "index": 308
+      },
+      "selectionEnd": {
+        "pageNumber": 49,
+        "index": 326
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers can only be non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/262",
+      "date": 1741026120236,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 49,
+        "index": 154
+      },
+      "selectionEnd": {
+        "pageNumber": 49,
+        "index": 168
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers can only be non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/262",
+      "date": 1741026051556,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 48,
+        "index": 717
+      },
+      "selectionEnd": {
+        "pageNumber": 48,
+        "index": 732
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers can only be non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/262",
+      "date": 1741026019770,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 48,
+        "index": 673
+      },
+      "selectionEnd": {
+        "pageNumber": 48,
+        "index": 682
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM Invocations: add missing `timeslot` param to `eject`\nhttps://github.com/gavofyork/graypaper/pull/233",
+      "date": 1741025950815,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 46,
+        "index": 482
+      },
+      "selectionEnd": {
+        "pageNumber": 46,
+        "index": 488
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "fix refine context type\nhttps://github.com/gavofyork/graypaper/pull/244",
+      "date": 1741025902951,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 293
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 295
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Introduce metadata prefix into authorizer/service code blobs\nhttps://github.com/gavofyork/graypaper/pull/263",
+      "date": 1741025858750,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 269
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 273
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Introduce metadata prefix into authorizer/service code blobs\nhttps://github.com/gavofyork/graypaper/pull/263",
+      "date": 1741025841950,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 238
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 258
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Introduce metadata prefix into authorizer/service code blobs\nhttps://github.com/gavofyork/graypaper/pull/263",
+      "date": 1741025827847,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 220
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 230
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Introduce metadata prefix into authorizer/service code blobs\nhttps://github.com/gavofyork/graypaper/pull/263",
+      "date": 1741025814605,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 202
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 218
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "fix refine context type\nhttps://github.com/gavofyork/graypaper/pull/244",
+      "date": 1741025769497,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 126
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 140
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Use a prime\nhttps://github.com/gavofyork/graypaper/pull/254",
+      "date": 1741025642314,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 44,
+        "index": 529
+      },
+      "selectionEnd": {
+        "pageNumber": 44,
+        "index": 624
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Use signed gas for result of PhiM\nhttps://github.com/gavofyork/graypaper/pull/255",
+      "date": 1741025565861,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 44,
+        "index": 477
+      },
+      "selectionEnd": {
+        "pageNumber": 44,
+        "index": 478
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Signed division should always round to zero\nhttps://github.com/gavofyork/graypaper/pull/227",
+      "date": 1741025448533,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 43,
+        "index": 17
+      },
+      "selectionEnd": {
+        "pageNumber": 43,
+        "index": 90
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Add unsigned conversion to max/min results\nhttps://github.com/gavofyork/graypaper/pull/228",
+      "date": 1741025389326,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 42,
+        "index": 992
+      },
+      "selectionEnd": {
+        "pageNumber": 42,
+        "index": 1003
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Add unsigned conversion to max/min results\nhttps://github.com/gavofyork/graypaper/pull/228",
+      "date": 1741025372374,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 42,
+        "index": 943
+      },
+      "selectionEnd": {
+        "pageNumber": 42,
+        "index": 954
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Signed division should always round to zero\nhttps://github.com/gavofyork/graypaper/pull/227",
+      "date": 1741025344393,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 42,
+        "index": 230
+      },
+      "selectionEnd": {
+        "pageNumber": 42,
+        "index": 242
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Signed division should always round to zero\nhttps://github.com/gavofyork/graypaper/pull/227\nPVM: Fix `div_s_32` to produce an unsigned result on overflow\nhttps://github.com/gavofyork/graypaper/pull/226\n",
+      "date": 1741025283858,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 41,
+        "index": 864
+      },
+      "selectionEnd": {
+        "pageNumber": 41,
+        "index": 881
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Update stf dependency order for \u03b2\u2032\nhttps://github.com/gavofyork/graypaper/pull/253\nAdd tau & tau_prime as state transition input dependency (2nd try)\nhttps://github.com/gavofyork/graypaper/pull/269",
+      "date": 1741024802956,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 9,
+        "index": 273
+      },
+      "selectionEnd": {
+        "pageNumber": 9,
+        "index": 306
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Two fixes for incorrect references to \\H^0\nhttps://github.com/gavofyork/graypaper/pull/234",
+      "date": 1741024440154,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 59,
+        "index": 370
+      },
+      "selectionEnd": {
+        "pageNumber": 59,
+        "index": 374
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Two fixes for incorrect references to \\H^0\nhttps://github.com/gavofyork/graypaper/pull/234",
+      "date": 1741024358363,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 57,
+        "index": 395
+      },
+      "selectionEnd": {
+        "pageNumber": 57,
+        "index": 399
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Intro: Change \"size-synchrony\" to \"size-coherency\"\nhttps://github.com/gavofyork/graypaper/pull/249",
+      "date": 1741024231732,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 2,
+        "index": 125
+      },
+      "selectionEnd": {
+        "pageNumber": 2,
+        "index": 131
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Intro: Change \"size-synchrony\" to \"size-coherency\"\nhttps://github.com/gavofyork/graypaper/pull/249",
+      "date": 1741024212216,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 2,
+        "index": 35
+      },
+      "selectionEnd": {
+        "pageNumber": 2,
+        "index": 41
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Set H_a with Bandersnatch key and not the entire key-set\nhttps://github.com/gavofyork/graypaper/pull/231",
+      "date": 1741023708175,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 12,
+        "index": 303
+      },
+      "selectionEnd": {
+        "pageNumber": 12,
+        "index": 311
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Update limits and introduce extrinsics limit on WPs\nhttps://github.com/gavofyork/graypaper/pull/265",
+      "date": 1741023508190,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 65,
+        "index": 160
+      },
+      "selectionEnd": {
+        "pageNumber": 65,
+        "index": 163
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Update limits and introduce extrinsics limit on WPs\nhttps://github.com/gavofyork/graypaper/pull/265",
+      "date": 1741023464543,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 65,
+        "index": 131
+      },
+      "selectionEnd": {
+        "pageNumber": 65,
+        "index": 133
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Update limits and introduce extrinsics limit on WPs\nhttps://github.com/gavofyork/graypaper/pull/265",
+      "date": 1741023402840,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 65,
+        "index": 103
+      },
+      "selectionEnd": {
+        "pageNumber": 65,
+        "index": 103
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "fix outdated accounts definitions\nhttps://github.com/gavofyork/graypaper/pull/242",
+      "date": 1741023296408,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 64,
+        "index": 128
+      },
+      "selectionEnd": {
+        "pageNumber": 64,
+        "index": 138
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Typo\nhttps://github.com/gavofyork/graypaper/pull/259",
+      "date": 1741022797806,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 939
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 943
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Accumulation: Accumulate items have additional information\nhttps://github.com/gavofyork/graypaper/pull/264",
+      "date": 1741022737099,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 671
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 802
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Serialization: Encoding for Wrangled Accumulation Items\nhttps://github.com/gavofyork/graypaper/pull/267",
+      "date": 1741022581190,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 489
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 497
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "chore(notation): use a_o for total number of octets\nhttps://github.com/gavofyork/graypaper/pull/174",
+      "date": 1741022329792,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 22,
+        "index": 217
+      },
+      "selectionEnd": {
+        "pageNumber": 22,
+        "index": 224
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Introduce metadata prefix into authorizer/service code blobs\nhttps://github.com/gavofyork/graypaper/pull/263",
+      "date": 1741022218407,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 16,
+        "index": 364
+      },
+      "selectionEnd": {
+        "pageNumber": 16,
+        "index": 394
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Misc: Introduce metadata prefix into authorizer/service code blobs\nhttps://github.com/gavofyork/graypaper/pull/263",
+      "date": 1741022174110,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 16,
+        "index": 353
+      },
+      "selectionEnd": {
+        "pageNumber": 16,
+        "index": 357
+      },
+      "version": "85129dacf739e76ead2065bb5b84a999e8ac71e7",
+      "labels": [
+        "Changes in 0.6.3"
+      ]
+    },
+    {
+      "noteVersion": 3,
       "content": "PVM Invocations: Condense fetch condition #230",
       "date": 1738879267597,
       "author": "",
@@ -15,7 +1131,9 @@
         "index": 542
       },
       "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
-      "labels": ["Changes in 0.6.2"]
+      "labels": [
+        "Changes in 0.6.2"
+      ]
     },
     {
       "noteVersion": 3,
@@ -31,7 +1149,9 @@
         "index": 526
       },
       "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
-      "labels": ["Changes in 0.6.2"]
+      "labels": [
+        "Changes in 0.6.2"
+      ]
     },
     {
       "noteVersion": 3,
@@ -47,7 +1167,9 @@
         "index": 1025
       },
       "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
-      "labels": ["Changes in 0.6.2"]
+      "labels": [
+        "Changes in 0.6.2"
+      ]
     },
     {
       "noteVersion": 3,
@@ -63,7 +1185,9 @@
         "index": 336
       },
       "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
-      "labels": ["Changes in 0.6.2"]
+      "labels": [
+        "Changes in 0.6.2"
+      ]
     },
     {
       "noteVersion": 3,
@@ -79,7 +1203,9 @@
         "index": 996
       },
       "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
-      "labels": ["Changes in 0.6.2"]
+      "labels": [
+        "Changes in 0.6.2"
+      ]
     },
     {
       "noteVersion": 3,
@@ -95,7 +1221,9 @@
         "index": 927
       },
       "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
-      "labels": ["Changes in 0.6.2"]
+      "labels": [
+        "Changes in 0.6.2"
+      ]
     },
     {
       "noteVersion": 3,
@@ -111,7 +1239,9 @@
         "index": 25
       },
       "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
-      "labels": ["Changes in 0.6.2"]
+      "labels": [
+        "Changes in 0.6.2"
+      ]
     },
     {
       "noteVersion": 3,
@@ -127,7 +1257,9 @@
         "index": 874
       },
       "version": "5f542d710f52bcfd22cd400d1b0b99e15003cc67",
-      "labels": ["Changes in 0.6.2"]
+      "labels": [
+        "Changes in 0.6.2"
+      ]
     },
     {
       "noteVersion": 3,
