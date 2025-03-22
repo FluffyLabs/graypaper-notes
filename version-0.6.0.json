@@ -3,6 +3,1320 @@
   "notes": [
     {
       "noteVersion": 3,
+      "content": "Fix the definition of sans-D\nhttps://github.com/gavofyork/graypaper/pull/294",
+      "date": 1742586648276,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 73
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 81
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Fix the definition of sans-D\nhttps://github.com/gavofyork/graypaper/pull/294",
+      "date": 1742586597553,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 65,
+        "index": 88
+      },
+      "selectionEnd": {
+        "pageNumber": 65,
+        "index": 88
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Fix EC base field\nhttps://github.com/gavofyork/graypaper/pull/286",
+      "date": 1742586497974,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 60,
+        "index": 23
+      },
+      "selectionEnd": {
+        "pageNumber": 60,
+        "index": 23
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "PVM: Fix Host-call instruction counter value\nhttps://github.com/gavofyork/graypaper/pull/292",
+      "date": 1742586375608,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 43,
+        "index": 413
+      },
+      "selectionEnd": {
+        "pageNumber": 43,
+        "index": 419
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "WPs&WRs: Replace import with fetch in description\nhttps://github.com/gavofyork/graypaper/pull/289",
+      "date": 1742586258525,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 554
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 554
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742586186534,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 355
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 355
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742586179708,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 344
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 344
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742586176004,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 327
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 327
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742586168208,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 321
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 321
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742586164408,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 270
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 270
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742586142862,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 253
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 253
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742586122676,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 192
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 192
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742586106447,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 27,
+        "index": 110
+      },
+      "selectionEnd": {
+        "pageNumber": 27,
+        "index": 122
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742586059178,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 26,
+        "index": 330
+      },
+      "selectionEnd": {
+        "pageNumber": 26,
+        "index": 548
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742586004829,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 25,
+        "index": 26
+      },
+      "selectionEnd": {
+        "pageNumber": 25,
+        "index": 749
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585980898,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 24,
+        "index": 438
+      },
+      "selectionEnd": {
+        "pageNumber": 24,
+        "index": 1110
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585884680,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 55,
+        "index": 641
+      },
+      "selectionEnd": {
+        "pageNumber": 55,
+        "index": 641
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585551197,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 20,
+        "index": 19
+      },
+      "selectionEnd": {
+        "pageNumber": 20,
+        "index": 27
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585537449,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 19,
+        "index": 418
+      },
+      "selectionEnd": {
+        "pageNumber": 19,
+        "index": 418
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585527032,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 19,
+        "index": 316
+      },
+      "selectionEnd": {
+        "pageNumber": 19,
+        "index": 404
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585498613,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 19,
+        "index": 278
+      },
+      "selectionEnd": {
+        "pageNumber": 19,
+        "index": 285
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585479998,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 19,
+        "index": 197
+      },
+      "selectionEnd": {
+        "pageNumber": 19,
+        "index": 197
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585415533,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 19,
+        "index": 156
+      },
+      "selectionEnd": {
+        "pageNumber": 19,
+        "index": 156
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585342351,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 47,
+        "index": 252
+      },
+      "selectionEnd": {
+        "pageNumber": 47,
+        "index": 252
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585293884,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 47,
+        "index": 133
+      },
+      "selectionEnd": {
+        "pageNumber": 47,
+        "index": 236
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585262773,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 47,
+        "index": 123
+      },
+      "selectionEnd": {
+        "pageNumber": 47,
+        "index": 123
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585220219,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 46,
+        "index": 756
+      },
+      "selectionEnd": {
+        "pageNumber": 46,
+        "index": 818
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585202575,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 46,
+        "index": 754
+      },
+      "selectionEnd": {
+        "pageNumber": 46,
+        "index": 754
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585081274,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 320
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 320
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585077831,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 315
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 315
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585064754,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 309
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 309
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585035377,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 275
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 275
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585031957,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 257
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 257
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742585001149,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 45,
+        "index": 190
+      },
+      "selectionEnd": {
+        "pageNumber": 45,
+        "index": 195
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742584974362,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 44,
+        "index": 856
+      },
+      "selectionEnd": {
+        "pageNumber": 44,
+        "index": 856
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742584963625,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 44,
+        "index": 836
+      },
+      "selectionEnd": {
+        "pageNumber": 44,
+        "index": 843
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742584859463,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 44,
+        "index": 441
+      },
+      "selectionEnd": {
+        "pageNumber": 44,
+        "index": 730
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742584781715,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 56,
+        "index": 737
+      },
+      "selectionEnd": {
+        "pageNumber": 56,
+        "index": 749
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742584560738,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 64,
+        "index": 99
+      },
+      "selectionEnd": {
+        "pageNumber": 64,
+        "index": 102
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742584538496,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 64,
+        "index": 70
+      },
+      "selectionEnd": {
+        "pageNumber": 64,
+        "index": 73
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742584293638,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 24,
+        "index": 27
+      },
+      "selectionEnd": {
+        "pageNumber": 24,
+        "index": 65
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742584282506,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 1173
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 1248
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742584075858,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 915
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 1088
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742584022910,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 600
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 644
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742583930027,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 360
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 374
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742583872792,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 320
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 327
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742583864782,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 299
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 309
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742583813560,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 172
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 184
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742583807193,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 156
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 184
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742583751780,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 118
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 125
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742583677745,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 23,
+        "index": 77
+      },
+      "selectionEnd": {
+        "pageNumber": 23,
+        "index": 77
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Activity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742583601929,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 22,
+        "index": 665
+      },
+      "selectionEnd": {
+        "pageNumber": 22,
+        "index": 665
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Include ed25519 keys in the epoch marker\nhttps://github.com/gavofyork/graypaper/pull/282",
+      "date": 1742582744328,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 14,
+        "index": 850
+      },
+      "selectionEnd": {
+        "pageNumber": 14,
+        "index": 858
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Include ed25519 keys in the epoch marker\nhttps://github.com/gavofyork/graypaper/pull/282",
+      "date": 1742582734308,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 14,
+        "index": 816
+      },
+      "selectionEnd": {
+        "pageNumber": 14,
+        "index": 822
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Include ed25519 keys in the epoch marker\nhttps://github.com/gavofyork/graypaper/pull/282",
+      "date": 1742582633647,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 12,
+        "index": 336
+      },
+      "selectionEnd": {
+        "pageNumber": 12,
+        "index": 345
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "[hotfix] info host function should return storage octets metadata\nhttps://github.com/gavofyork/graypaper/pull/284",
+      "date": 1742582247493,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 49,
+        "index": 144
+      },
+      "selectionEnd": {
+        "pageNumber": 49,
+        "index": 144
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Corrected yield symbol\nhttps://github.com/gavofyork/graypaper/pull/283",
+      "date": 1742582144904,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 51,
+        "index": 733
+      },
+      "selectionEnd": {
+        "pageNumber": 51,
+        "index": 733
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Assurances are checked with the prior validator set\nhttps://github.com/gavofyork/graypaper/pull/281",
+      "date": 1742582054518,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 20,
+        "index": 201
+      },
+      "selectionEnd": {
+        "pageNumber": 20,
+        "index": 201
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Refine Bandersnatch-VRF section\nhttps://github.com/gavofyork/graypaper/pull/278",
+      "date": 1742581944417,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 59,
+        "index": 644
+      },
+      "selectionEnd": {
+        "pageNumber": 59,
+        "index": 644
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Refine Bandersnatch-VRF section\nhttps://github.com/gavofyork/graypaper/pull/278",
+      "date": 1742581939383,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 59,
+        "index": 647
+      },
+      "selectionEnd": {
+        "pageNumber": 59,
+        "index": 647
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Refine Bandersnatch-VRF section\nhttps://github.com/gavofyork/graypaper/pull/278",
+      "date": 1742581927988,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 59,
+        "index": 667
+      },
+      "selectionEnd": {
+        "pageNumber": 59,
+        "index": 670
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Refine Bandersnatch-VRF section\nhttps://github.com/gavofyork/graypaper/pull/278",
+      "date": 1742581916838,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 59,
+        "index": 659
+      },
+      "selectionEnd": {
+        "pageNumber": 59,
+        "index": 699
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Refine Bandersnatch-VRF section\nhttps://github.com/gavofyork/graypaper/pull/278",
+      "date": 1742581887886,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 59,
+        "index": 724
+      },
+      "selectionEnd": {
+        "pageNumber": 59,
+        "index": 805
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Updated refs to synchronous entanglements\nhttps://github.com/gavofyork/graypaper/pull/276",
+      "date": 1742581436573,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 9,
+        "index": 386
+      },
+      "selectionEnd": {
+        "pageNumber": 9,
+        "index": 393
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers are non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/277",
+      "date": 1742581349124,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 44,
+        "index": 698
+      },
+      "selectionEnd": {
+        "pageNumber": 44,
+        "index": 698
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Registers are non-negative naturals\nhttps://github.com/gavofyork/graypaper/pull/277",
+      "date": 1742581322854,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 44,
+        "index": 682
+      },
+      "selectionEnd": {
+        "pageNumber": 44,
+        "index": 682
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "bloblength must be valid read from register\nhttps://github.com/gavofyork/graypaper/pull/279",
+      "date": 1742581136254,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 50,
+        "index": 112
+      },
+      "selectionEnd": {
+        "pageNumber": 50,
+        "index": 119
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Don't mem wrap in host functions\nhttps://github.com/gavofyork/graypaper/pull/272",
+      "date": 1742580995167,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 53,
+        "index": 521
+      },
+      "selectionEnd": {
+        "pageNumber": 53,
+        "index": 521
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Don't mem wrap in host functions\nhttps://github.com/gavofyork/graypaper/pull/272",
+      "date": 1742580946887,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 53,
+        "index": 377
+      },
+      "selectionEnd": {
+        "pageNumber": 53,
+        "index": 377
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Don't mem wrap in host functions\nhttps://github.com/gavofyork/graypaper/pull/272",
+      "date": 1742580879097,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 52,
+        "index": 676
+      },
+      "selectionEnd": {
+        "pageNumber": 52,
+        "index": 676
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "missing update l to y in seL\nhttps://github.com/gavofyork/graypaper/pull/271\nActivity statistics\nhttps://github.com/gavofyork/graypaper/pull/285",
+      "date": 1742580659555,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 55,
+        "index": 610
+      },
+      "selectionEnd": {
+        "pageNumber": 55,
+        "index": 614
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Add $\\N_R$ defined in (4.23) in the Appendix I/Sets/Regular Notion\nhttps://github.com/gavofyork/graypaper/pull/274",
+      "date": 1742580553387,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 62,
+        "index": 46
+      },
+      "selectionEnd": {
+        "pageNumber": 62,
+        "index": 51
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
+      "content": "Add preimage lookup to new\nhttps://github.com/gavofyork/graypaper/pull/275",
+      "date": 1742579627353,
+      "author": "",
+      "selectionStart": {
+        "pageNumber": 50,
+        "index": 149
+      },
+      "selectionEnd": {
+        "pageNumber": 50,
+        "index": 209
+      },
+      "version": "68eaa1fc6f2d32dd4ef6cececbe1f4ecf705d40a",
+      "labels": [
+        "changes/v0.6.4"
+      ]
+    },
+    {
+      "noteVersion": 3,
       "content": "PVM Invocation: `fetch`able auth details\nhttps://github.com/gavofyork/graypaper/pull/236",
       "date": 1741031270643,
       "author": "",
